@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>https://nullnein.onrender.com/</id>
   <title>nullnein</title>
   <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-02-15T21:10:21+01:00</updated>
+  <updated>2022-02-15T21:29:41+01:00</updated>
   <author>
     <name>mathis</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://nullnein.onrender.com/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://nullnein.onrender.com/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://nullnein.onrender.com/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <rights> © 2022 mathis </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Migrants in the German service sector</title>
-    <link href="http://localhost:4000/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
+    <link href="https://nullnein.onrender.com/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
     <published>2022-02-11T00:00:00+01:00</published>
   
     <updated>2022-02-11T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/migration-service-work/</id>
-    <content src="http://localhost:4000/posts/migration-service-work/" />
+    <id>https://nullnein.onrender.com/posts/migration-service-work/</id>
+    <content src="https://nullnein.onrender.com/posts/migration-service-work/" />
     <author>
       <name>mathis</name>
     </author>
@@ -46,29 +46,9 @@
 
 
 
-      
+      »Of course I support a fellow Indian worker in retaining their job,« says my friend Shabnam after I ask her about ordering on Gorillaz. Single-handedly she rebuffs shallow critique about ordering at the food delivery.
 
-Issues with the story:
-
-
-  Focus unclear: Migration or Refugees in Germany?
-  Research necessary on:
-    
-      Food Delivery and Migration (Statistics?)
-      Amazon and work perspective
-      entry-level service industry and job security
-    
-  
-  O-Töne
-    
-      Balance: Ask for comment
-        
-          Amazon
-          Gorillaz
-        
-      
-      Union/Initiative
-      A rider them...
+It is a late evening and being a great host she just virtually went to the kiosk and have somebody bring two more cases of beer. I ask her whether she had already tipped and of c...
     </summary>
   
 
@@ -77,13 +57,13 @@ Issues with the story:
   
   <entry>
     <title>No Quittungssätze</title>
-    <link href="http://localhost:4000/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
+    <link href="https://nullnein.onrender.com/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
     <published>2022-02-11T00:00:00+01:00</published>
   
     <updated>2022-02-11T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Quittungssaetze/</id>
-    <content src="http://localhost:4000/posts/Quittungssaetze/" />
+    <id>https://nullnein.onrender.com/posts/Quittungssaetze/</id>
+    <content src="https://nullnein.onrender.com/posts/Quittungssaetze/" />
     <author>
       <name>mathis</name>
     </author>
@@ -126,13 +106,13 @@ Goal
   
   <entry>
     <title>2022-02-06 Stuff</title>
-    <link href="http://localhost:4000/posts/stuff/" rel="alternate" type="text/html" title="2022-02-06 Stuff" />
+    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-06 Stuff" />
     <published>2022-02-06T00:00:00+01:00</published>
   
     <updated>2022-02-06T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/stuff/</id>
-    <content src="http://localhost:4000/posts/stuff/" />
+    <id>https://nullnein.onrender.com/posts/stuff/</id>
+    <content src="https://nullnein.onrender.com/posts/stuff/" />
     <author>
       <name>mathis</name>
     </author>
@@ -164,13 +144,13 @@ Izabella Kaminska left the Financial Times and now runs her own media venture »
   
   <entry>
     <title>Kill your darlings</title>
-    <link href="http://localhost:4000/posts/Kill-your-darlings/" rel="alternate" type="text/html" title="Kill your darlings" />
+    <link href="https://nullnein.onrender.com/posts/Kill-your-darlings/" rel="alternate" type="text/html" title="Kill your darlings" />
     <published>2022-02-06T00:00:00+01:00</published>
   
     <updated>2022-02-06T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Kill-your-darlings/</id>
-    <content src="http://localhost:4000/posts/Kill-your-darlings/" />
+    <id>https://nullnein.onrender.com/posts/Kill-your-darlings/</id>
+    <content src="https://nullnein.onrender.com/posts/Kill-your-darlings/" />
     <author>
       <name>mathis</name>
     </author>
@@ -202,13 +182,13 @@ I did two pieces. One on how DW protects their journalists in Germany, with viol
   
   <entry>
     <title>Feedback Collection</title>
-    <link href="http://localhost:4000/posts/Feedbackcollection/" rel="alternate" type="text/html" title="Feedback Collection" />
+    <link href="https://nullnein.onrender.com/posts/Feedbackcollection/" rel="alternate" type="text/html" title="Feedback Collection" />
     <published>2022-02-06T00:00:00+01:00</published>
   
     <updated>2022-02-06T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Feedbackcollection/</id>
-    <content src="http://localhost:4000/posts/Feedbackcollection/" />
+    <id>https://nullnein.onrender.com/posts/Feedbackcollection/</id>
+    <content src="https://nullnein.onrender.com/posts/Feedbackcollection/" />
     <author>
       <name>mathis</name>
     </author>
