@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
-  <title>nullnein</title>
+  <id>https://nullnein.onrender.com/</id>
+  <title>mikrophaenomene</title>
   <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-02-28T13:57:56+01:00</updated>
+  <updated>2022-02-28T14:04:03+01:00</updated>
   <author>
     <name>mathis</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>https://nullnein.onrender.com/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://nullnein.onrender.com/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="https://nullnein.onrender.com/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <rights> © 2022 mathis </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -21,13 +21,13 @@
   
   <entry>
     <title>Trust the process</title>
-    <link href="http://localhost:4000/posts/Trust-the-process/" rel="alternate" type="text/html" title="Trust the process" />
+    <link href="https://nullnein.onrender.com/posts/Trust-the-process/" rel="alternate" type="text/html" title="Trust the process" />
     <published>2022-02-28T00:00:00+01:00</published>
   
     <updated>2022-02-28T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Trust-the-process/</id>
-    <content src="http://localhost:4000/posts/Trust-the-process/" />
+    <id>https://nullnein.onrender.com/posts/Trust-the-process/</id>
+    <content src="https://nullnein.onrender.com/posts/Trust-the-process/" />
     <author>
       <name>mathis</name>
     </author>
@@ -57,13 +57,13 @@ This design challenge had been developed previously in-house and we worked as a 
   
   <entry>
     <title>Layers of learning</title>
-    <link href="http://localhost:4000/posts/Layers-of-learning/" rel="alternate" type="text/html" title="Layers of learning" />
+    <link href="https://nullnein.onrender.com/posts/Layers-of-learning/" rel="alternate" type="text/html" title="Layers of learning" />
     <published>2022-02-28T00:00:00+01:00</published>
   
     <updated>2022-02-28T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/Layers-of-learning/</id>
-    <content src="http://localhost:4000/posts/Layers-of-learning/" />
+    <id>https://nullnein.onrender.com/posts/Layers-of-learning/</id>
+    <content src="https://nullnein.onrender.com/posts/Layers-of-learning/" />
     <author>
       <name>mathis</name>
     </author>
@@ -91,13 +91,13 @@ This design challenge had been developed previously in-house and we worked as a 
   
   <entry>
     <title>2022-02-01 Stuff</title>
-    <link href="http://localhost:4000/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
+    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
     <published>2022-02-20T00:00:00+01:00</published>
   
     <updated>2022-02-20T00:00:00+01:00</updated>
   
-    <id>http://localhost:4000/posts/stuff/</id>
-    <content src="http://localhost:4000/posts/stuff/" />
+    <id>https://nullnein.onrender.com/posts/stuff/</id>
+    <content src="https://nullnein.onrender.com/posts/stuff/" />
     <author>
       <name>mathis</name>
     </author>
@@ -129,13 +129,13 @@ Other option wo...
   
   <entry>
     <title>Migrants in the German service sector</title>
-    <link href="http://localhost:4000/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
+    <link href="https://nullnein.onrender.com/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
     <published>2022-02-11T00:00:00+01:00</published>
   
     <updated>2022-02-20T02:10:50+01:00</updated>
   
-    <id>http://localhost:4000/posts/migration-service-work/</id>
-    <content src="http://localhost:4000/posts/migration-service-work/" />
+    <id>https://nullnein.onrender.com/posts/migration-service-work/</id>
+    <content src="https://nullnein.onrender.com/posts/migration-service-work/" />
     <author>
       <name>mathis</name>
     </author>
@@ -165,13 +165,13 @@ It is a late evening and being a great host she just virtually went to the kiosk
   
   <entry>
     <title>No Quittungssätze</title>
-    <link href="http://localhost:4000/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
+    <link href="https://nullnein.onrender.com/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
     <published>2022-02-11T00:00:00+01:00</published>
   
-    <updated>2022-02-11T00:00:00+01:00</updated>
+    <updated>2022-02-28T13:58:55+01:00</updated>
   
-    <id>http://localhost:4000/posts/Quittungssaetze/</id>
-    <content src="http://localhost:4000/posts/Quittungssaetze/" />
+    <id>https://nullnein.onrender.com/posts/Quittungssaetze/</id>
+    <content src="https://nullnein.onrender.com/posts/Quittungssaetze/" />
     <author>
       <name>mathis</name>
     </author>
