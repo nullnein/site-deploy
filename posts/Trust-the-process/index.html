@@ -20,26 +20,41 @@
 
   
 
+    <!-- i18n for `_javascript/utils/timeago.js` -->
+    <meta name="day-prompt" content="days ago">
+    <meta name="hour-prompt" content="hours ago">
+    <meta name="minute-prompt" content="minutes ago">
+    <meta name="justnow-prompt" content="just now">
+
+    
+
+    
+
+  
+
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <meta name="generator" content="Jekyll v4.2.1" />
-<meta property="og:title" content="yaml" />
+<meta property="og:title" content="Trust the process" />
+<meta name="author" content="mathis" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Collecting some work, some thoughts, and jumping to the beat." />
-<meta property="og:description" content="Collecting some work, some thoughts, and jumping to the beat." />
-<link rel="canonical" href="http://localhost:4000/tags/yaml/" />
-<meta property="og:url" content="http://localhost:4000/tags/yaml/" />
+<meta name="description" content="One and a half weeks of format development for the Hungary department. We were put to the task of developing a facebook video format that engages healthy online discussions — because Hungarians are so polarized." />
+<meta property="og:description" content="One and a half weeks of format development for the Hungary department. We were put to the task of developing a facebook video format that engages healthy online discussions — because Hungarians are so polarized." />
+<link rel="canonical" href="http://localhost:4000/posts/Trust-the-process/" />
+<meta property="og:url" content="http://localhost:4000/posts/Trust-the-process/" />
 <meta property="og:site_name" content="nullnein" />
-<meta property="og:type" content="website" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-02-28T00:00:00+01:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="yaml" />
+<meta property="twitter:title" content="Trust the process" />
 <meta name="twitter:site" content="@nullnein" />
+<meta name="twitter:creator" content="@mathis" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebPage","description":"Collecting some work, some thoughts, and jumping to the beat.","headline":"yaml","url":"http://localhost:4000/tags/yaml/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-02-28T00:00:00+01:00","datePublished":"2022-02-28T00:00:00+01:00","description":"One and a half weeks of format development for the Hungary department. We were put to the task of developing a facebook video format that engages healthy online discussions — because Hungarians are so polarized.","headline":"Trust the process","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/posts/Trust-the-process/"},"url":"http://localhost:4000/posts/Trust-the-process/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
-  <title>yaml | nullnein
+  <title>Trust the process | nullnein
   </title>
 
   <!--
@@ -85,7 +100,13 @@
 <link rel="stylesheet" href="/assets/css/style.css">
 
 
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.css">
 
+
+
+  <!-- Manific Popup -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/magnific-popup@1.1.0/dist/magnific-popup.min.css">
 
 
 
@@ -388,19 +409,13 @@
       
 
         
-          <span>
-            <a href="/tags">
-              Tags
-            </a>
-          </span>
-        
 
       
 
         
 
           
-            <span>yaml</span>
+            <span>Trust the process</span>
           
 
         
@@ -414,7 +429,7 @@
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
     <div id="topbar-title">
-      Tag
+      Post
     </div>
 
     <i id="search-trigger" class="fas fa-search fa-fw"></i>
@@ -448,28 +463,344 @@
     
       
       
+        <!--
+  Refactor the HTML structure.
+-->
+
+
+
+<!--
+  In order to allow a wide table to scroll horizontally,
+  we suround the markdown table with `<div class="table-wrapper">` and `</div>`
+-->
+
+
+
+<!--
+  Fixed kramdown code highlight rendering:
+  https://github.com/penibelst/jekyll-compress-html/issues/101
+  https://github.com/penibelst/jekyll-compress-html/issues/71#issuecomment-188144901
+-->
+
+
+
+<!-- Add attribute 'hide-bullet' to the checkbox list -->
+
+
+
+<!-- images -->
+
+
+
+
+
+<!-- Add header for code snippets -->
+
+
+
+<!-- Create heading anchors -->
+
+
+
+
+
+  
+  
+
+  
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
+
+    
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+
+
+
+
+<!-- return -->
+
+
+
+
+
+
+
+<h1 data-toc-skip>Trust the process</h1>
+
+<div class="post-meta text-muted">
+
+  <!-- author -->
+  <div>
+    
+    
+
+    
+
+    By
+    <em>
+      
+        <a href="https://twitter.com/nullnein">mathis</a>
+      
+    </em>
+  </div>
+
+  <div class="d-flex">
+    <div>
+      <!-- published date -->
+      <span>
+        Posted
+        <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/timeago.js
+-->
+
+
+
+
+
+<em class="timeago"
+    date="2022-02-28 00:00:00 +0100"
+    
+      data-toggle="tooltip"
+      data-placement="bottom"
+      title="Mon, Feb 28, 2022, 12:00 AM +0100"
+    >Feb 28</em>
+
+      </span>
+
+      <!-- lastmod date -->
+      
+
+      <!-- read time -->
+      <!--
+  Calculate the post's reading time, and display the word count in tooltip
+ -->
+
+
+
+<!-- words per minute  -->
+
+
+
+
+
+
+
+
+
+
+<!-- return element -->
+<span class="readtime" data-toggle="tooltip" data-placement="bottom"
+  title="1353 words">
+  <em>7 min</em> read</span>
+
+
+      <!-- page views -->
+      
+    </div>
+
+  </div> <!-- .d-flex -->
+
+</div> <!-- .post-meta -->
+
+<div class="post-content">
+  <p>One and a half weeks of format development for the Hungary department. We were put to the task of developing a facebook video format that engages healthy online discussions — because Hungarians are so polarized.</p>
+
+<p>This design challenge had been developed previously in-house and we worked as a group on this task. After seven working days, that is nine calender days there was supposed to be a result usable by the Hungary department. The goal was to develop a format so tangible that the next month the department can create full-fleged pilot of this show.</p>
+
+<p>The development process we underwent was incredibly well managed, designed, and carried out. And it totally deserved the plea the instructors kept putting at us: Trust the process. If you ask me now, I’d say: “Trust the process because it delivers results through exploitation.”</p>
+
+<h2 id="design-thinking-goodies">Design Thinking Goodies<a href="#design-thinking-goodies" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+
+<p><em>The goodies described here may or may not have to do with design thinking. Since our process was a design thinking process these are the goodies I’m taking away from this process and they may relate to design thinking</em></p>
+
+<p>There are many bits and pieces I am taking away from this time — gosh, after five days of intense labor, frustration, and hate against the methods used during this design marathon I even designed a workshop for a private project using precisely these methods. So, definitely valuable lessons learned.</p>
+
+<p>Front and center: <a href="https://www.youtube.com/watch?v=4niz8TfY794">Constraints spurr creativity</a>. A development workshop that intends to create a clear product with a clearly defined need but brings in 14 minds is only possible with clear, focussed, and hard moderation. Working in groups, moderators need to be on their toes, to intervene whenever the group strays off topic or looses itself in detail. It helps to have <em>tangible moderation</em>, i.e. some form of visualization of the process. Our workshop made good use of Miro to keep the process in shape.</p>
+
+<p>Small steps: Boil your process down into small approachable and easy to fulfill challenges. Think in compartments: There is an overall challenge and there are several steps to take to get towards a result. Then break down the several steps until you are there with step-entities that can be as short as one minute. Set a timer for each step to (1) add creativity constraints, and (2) keep the group on topic. It creates stress and you may feel or smell it in your armpits but it is a killer feature to bolster a group process. Not everybody can work like this.</p>
+
+<p>Use a variety of methods for the same task:</p>
+
+<ol>
+  <li>Some people are creative in very open brainstorming sessions.</li>
+  <li>Some people like to work independently but co-create in “<a href="https://www.psychologytoday.com/us/blog/the-edge-peak-performance-psychology/201801/yes-and">yes-and</a>” settings.</li>
+  <li>Some people work visually in <a href="https://en.wikipedia.org/wiki/Mood_board">mood boards</a>.</li>
+  <li>Some people like abstractions like seeking the patterns in user-interviews (e.g. He says: “I like long interviews because you get behind the scenes info on a person” and he says: “With an audience present in the interview its not as intimate anymore” $\rightarrow$ he may like to feel special)</li>
+</ol>
+
+<p>Iterate: Have an idea, spin it, develop it, deploy it, get feedback, spin it, develop it, deploy it, get feedback; keep repeating and then just stop. Your output will be a working snapshot.</p>
+
+<p>Produce for purpose: Many people get stuck with creative processes because they want great output. For a design process this is the wrong approach. With an iterative process you don’t go for great output, you merely go for good enough. You will always be able to improve on your output. But if the goal is to produce a prototype that sort of shows in a tangible way what you’d like your format to look and feel like, don’t fret with creative video editing. Your purpose is to give a sense of how this is supposed to look and feel, not to gain additional viewership on your publication. Writing this there is a hint in the word already: Publication is public. But public may not be the purpose.</p>
+
+<p>Lastly, user centeredness: The process began with interviewing possible Hungarian users and developing a collective user-persona with specific needs and traits. All intermediate and final results were checked against these needs and traits. I put this aspect last because even though I know this isn’t standard procedure in developing design it should be.</p>
+
+<p>These steps and all the others I didn’t mention yield results. In just 9 calender days we were able to create a fully fleged format for a department that works in a language none of us speak. And while this development process isn’t finished yet — Hungary will now produce the pilot — I can see that this product may be successful. The process delivered results.</p>
+
+<h2 id="design-thinking-badies">Design Thinking Badies<a href="#design-thinking-badies" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+
+<p>Badies are antonyms to goodies. However, with respect to the process we underwent my critique isn’t related to singular bits that didn’t work for me. Rather, I’d like to propose the argument that the process delivered results through exploitation.</p>
+
+<p>There are four aspects that seem to have made the process successful: (1) structure[1], (2) time pressure, (3) competition, and (4) highly motivated staff.</p>
+
+<p>I discussed structure and time pressure above. Both seem to be the important guideposts to channel all that creativity into a well defined river of output. What I am concerned with is both competition and the highly motivated staff.</p>
+
+<p>79% of the workshop time our staff goup was split into either two or four. Initially this provided smaller groups to work in and allowed to recombine and thus iterate the findings of the results. This is helpful because each group may develop a specific and highly useful focus. Merging these foci generally allows to add onto each other in a substantial way.</p>
+
+<p>At two junctions the split groups competed against each other, however. Each sub-group would develop their own idea and then pitch it to a jury. The jury then would decide which idea to pursue further. After each such decision the sub-groups not picked would then merge into the other groups.</p>
+
+<p>Now, instructors would stress during each of these competing rounds that »all ideas are our ideas« and it isn’t about winning or loosing. But this is just words.</p>
+
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/XxEDcaWSFn2zMxaynT" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe></div>
+
+<p>Now, the main point here is that merging into new teams after your idea wasn’t picked isn’t too bad. I think it shouldn’t be overdramatized or overthought. But I’d like to point out that it involves emotional labour.</p>
+
+<p>How do you integrate new people into a team? You explain to them why you made decisions previously, you try to work on the knowledge hierarchies that developed. Positions are sticky though: If somebody drove an idea early on they develop ownership for it and will retain this ownership even if new people merge into this team.</p>
+
+<p>Ownership is an emotional category, however and the only way to build ownership in a new arrival or transfer ownership to the new arrival is through emotional labor: People who initially held ownership need to let go, listen to the new arrivals, ask them for feedback, see what they need, and (this may sound crazy) tend to their wounds from the lost battle before.</p>
+
+<p>A tight schedule as ours does not allow to do that labor. Positions within the process become entrenched, with some doing the shitty work and others sticking with the fun stuff, knowledge hierarchies entrench with the new arrivals not really voicing their opinions anymore and thus attaining no ownership.</p>
+
+<p>Such a process is emotionally draining. Ideas one worked on intensely get ditched and adaption to the new standard, the idea one got merged into takes an emotional toll. This toll is the emotional exploitation necessary to make the process work. If you have highly motivated staff, they will plough through it. They may have a healthy way of dealing with it or they will ignore it and work hard even though they are drained. If your staff isn’t highly motivated there numerous ways of ditching the process. But of course its a group effort and you pay in increments of emotion to be part of the group.</p>
+
+<p>Footnotes:</p>
+
+<ul>
+  <li>[1] E.g. Clear goal, good moderation, precise methods</li>
+</ul>
+
+</div>
+
+<div class="post-tail-wrapper text-muted">
+
+  <!-- categories -->
+  
+  <div class="post-meta mb-3">
+    <i class="far fa-folder-open fa-fw mr-1"></i>
+    
+      <a href='/categories/learning/'>learning</a>
+  </div>
+  
+
+  <!-- tags -->
+  
+  <div class="post-tags">
+    <i class="fa fa-tags fa-fw mr-1"></i>
+      
+      <a href="/tags/learning-journalism/"
+          class="post-tag no-text-decoration" >learning journalism</a>
+      
+  </div>
+  
+
+  <div class="post-tail-bottom
+    d-flex justify-content-between align-items-center mt-3 pt-5 pb-2">
+    <div class="license-wrapper">
+
+      
+
         
 
+        This post is licensed under 
+        <a href="https://creativecommons.org/licenses/by/4.0/">
+          CC BY 4.0
+        </a>
+         by the author.
 
+      
+    </div>
 
-<div id="page-tag">
-  <h1 class="pl-lg-2">
-    <i class="fa fa-tag fa-fw text-muted"></i>
-    yaml
-    <span class="lead text-muted pl-2">1</span>
-  </h1>
-  <ul class="post-content pl-0">
+    <!--
+ Post sharing snippet
+-->
+
+<div class="share-wrapper">
+  <span class="share-label text-muted mr-1">Share</span>
+  <span class="share-icons">
+    
     
 
     
-    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
-      <a href="/posts/stuff/">2022-02-01 Stuff</a>
-      <span class="dash flex-grow-1"></span>
-      <span class="text-muted small">Feb 20, 2022</span>
-    </li>
+      
+        <a href="https://twitter.com/intent/tweet?text=Trust the process - nullnein&url=http://localhost:4000/posts/Trust-the-process/" data-toggle="tooltip" data-placement="top"
+          title="Twitter" target="_blank" rel="noopener" aria-label="Twitter">
+          <i class="fa-fw fab fa-twitter"></i>
+        </a>
     
-  </ul>
+      
+        <a href="https://www.facebook.com/sharer/sharer.php?title=Trust the process - nullnein&u=http://localhost:4000/posts/Trust-the-process/" data-toggle="tooltip" data-placement="top"
+          title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
+          <i class="fa-fw fab fa-facebook-square"></i>
+        </a>
+    
+      
+        <a href="https://telegram.me/share?text=Trust the process - nullnein&url=http://localhost:4000/posts/Trust-the-process/" data-toggle="tooltip" data-placement="top"
+          title="Telegram" target="_blank" rel="noopener" aria-label="Telegram">
+          <i class="fa-fw fab fa-telegram"></i>
+        </a>
+    
+
+    <i id="copy-link" class="fa-fw fas fa-link small"
+        data-toggle="tooltip" data-placement="top"
+        title="Copy link"
+        title-succeed="Link copied successfully!">
+    </i>
+
+  </span>
 </div>
+
+
+  </div><!-- .post-tail-bottom -->
+
+</div><!-- div.post-tail-wrapper -->
+
 
       
     
@@ -957,11 +1288,519 @@
     </div>
 
     
+      
+      
+
+
+
+<!-- BS-toc.js will be loaded at medium priority -->
+<script src="https://cdn.jsdelivr.net/gh/afeld/bootstrap-toc@1.0.1/dist/bootstrap-toc.min.js"></script>
+
+<div id="toc-wrapper" class="pl-0 pr-4 mb-5">
+  <div class="panel-heading pl-3 pt-2 mb-2">Contents</div>
+  <nav id="toc" data-toggle="toc"></nav>
+</div>
+
+
+    
   </div>
 
 </div>
 
 <!-- tail -->
+
+<div class="row">
+  <div class="col-12 col-lg-11 col-xl-8">
+    <div id="tail-wrapper" class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
+      
+        
+        <!--
+ Recommend the other 3 posts according to the tags and categories of the current post,
+ if the number is not enough, use the other latest posts to supplement.
+-->
+
+<!-- The total size of related posts  -->
+
+
+<!-- An random integer that bigger than 0  -->
+
+
+<!-- Equals to TAG_SCORE / {max_categories_hierarchy}  -->
+
+
+
+
+
+
+
+
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+
+
+
+<!-- Fill with the other newlest posts  -->
+
+
+
+
+
+
+  <div id="related-posts" class="mt-5 mb-2 mb-sm-4">
+    <h3 class="pt-2 mt-1 mb-4 ml-1"
+      data-toc-skip>Further Reading</h3>
+    <div class="card-deck mb-4">
+    
+      
+      
+      <div class="card">
+        <a href="/posts/Kill-your-darlings/">
+          <div class="card-body">
+            <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/timeago.js
+-->
+
+
+
+
+
+<em class="timeago small"
+    date="2022-02-06 00:00:00 +0100"
+    >Feb  6</em>
+
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Kill your darlings</h3>
+            <div class="text-muted small">
+              <p>
+                
+
+
+
+
+
+                This week brought a crash course into radio. While killing your darlings is important to all work, I’ll mention it here because it hit me here so strongly.
+
+The first piece
+
+I did two pieces. One o...
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    
+      
+      
+      <div class="card">
+        <a href="/posts/Quittungssaetze/">
+          <div class="card-body">
+            <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/timeago.js
+-->
+
+
+
+
+
+<em class="timeago small"
+    date="2022-02-11 00:00:00 +0100"
+    >Feb 11</em>
+
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>No Quittungssätze</h3>
+            <div class="text-muted small">
+              <p>
+                
+
+
+
+
+
+                A week of interview-training, mostly 3:30 live-interviews for radio or TV. One day of vox pops and focus, focus, focus. Some notes of what I took away from this week.
+
+Goal
+
+Have a clear goal in mi...
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    
+      
+      
+      <div class="card">
+        <a href="/posts/Detail/">
+          <div class="card-body">
+            <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/timeago.js
+-->
+
+
+
+
+
+<em class="timeago small"
+    date="2022-01-23 00:00:00 +0100"
+    >Jan 23</em>
+
+            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>Detail</h3>
+            <div class="text-muted small">
+              <p>
+                
+
+
+
+
+
+                One week of learning to write well. Our trainers focussed on what is in German called the »Reportage«. The following is a list of tricks they suggested. Some, I just wrote down like this, some they...
+              </p>
+            </div>
+          </div>
+        </a>
+      </div>
+    
+    </div> <!-- .card-deck -->
+  </div> <!-- #related-posts -->
+
+
+      
+        
+        <!--
+  Navigation buttons at the bottom of the post.
+-->
+
+<div class="post-navigation d-flex justify-content-between">
+  
+  <a href="/posts/Layers-of-learning/" class="btn btn-outline-primary"
+    prompt="Older">
+    <p>Layers of learning</p>
+  </a>
+  
+
+  
+  <span class="btn btn-outline-primary disabled"
+    prompt="Newer">
+    <p>-</p>
+  </span>
+  
+
+</div>
+
+      
+        
+        <!--  The comments switcher -->
+
+
+      
+    </div>
+  </div>
+</div> <!-- .row -->
 
 
 
@@ -1493,13 +2332,18 @@ SimpleJekyllSearch({
 <!-- layout specified -->
 
 
+  
+
+
+
+  <!-- image lazy-loading & popup -->
+  <script src="https://cdn.jsdelivr.net/combine/npm/lozad/dist/lozad.min.js,npm/magnific-popup@1/dist/jquery.magnific-popup.min.js,npm/clipboard@2/dist/clipboard.min.js"></script>
 
 
 
 
 
-
-<script defer src="/assets/js/dist/commons.min.js"></script>
+<script defer src="/assets/js/dist/post.min.js"></script>
 
 
 

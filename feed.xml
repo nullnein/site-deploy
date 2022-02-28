@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://nullnein.onrender.com/</id>
+  <id>http://localhost:4000/</id>
   <title>nullnein</title>
   <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-02-28T11:48:52+01:00</updated>
+  <updated>2022-02-28T13:57:56+01:00</updated>
   <author>
     <name>mathis</name>
-    <uri>https://nullnein.onrender.com/</uri>
+    <uri>http://localhost:4000/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://nullnein.onrender.com/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://nullnein.onrender.com/"/>
+    href="http://localhost:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <rights> © 2022 mathis </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,19 +20,21 @@
 
   
   <entry>
-    <title></title>
-    <link href="https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/" rel="alternate" type="text/html" title="" />
-    <published>2022-02-28T11:48:52+01:00</published>
+    <title>Trust the process</title>
+    <link href="http://localhost:4000/posts/Trust-the-process/" rel="alternate" type="text/html" title="Trust the process" />
+    <published>2022-02-28T00:00:00+01:00</published>
   
-    <updated>2022-02-20T02:10:50+01:00</updated>
+    <updated>2022-02-28T00:00:00+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/</id>
-    <content src="https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/" />
+    <id>http://localhost:4000/posts/Trust-the-process/</id>
+    <content src="http://localhost:4000/posts/Trust-the-process/" />
     <author>
       <name>mathis</name>
     </author>
 
   
+    
+    <category term="learning" />
     
   
 
@@ -44,29 +46,9 @@
 
 
 
-      Workflow
+      One and a half weeks of format development for the Hungary department. We were put to the task of developing a facebook video format that engages healthy online discussions — because Hungarians are so polarized.
 
-
-  Open Typora
-    
-      New Doc: :new
-      Write
-      Add title, tags, categories in frontmatter
-      tags are OneWord
-    
-  
-  Open Terminal
-    
-      cd /Users/mathis/mrichtm/oija/nullnein\ on\ github/nullnein.github.io
-      bundle exec jekyll build -d ~/mrichtm/oija/public-site 
-    
-  
-  Github
-    
-      cd _site
-      git add .
-      git commit -m "message"
-      git pus...
+This design challenge had been developed previously in-house and we worked as a group on this task. After seven working days, that is nine calender days there was supposed to be a resu...
     </summary>
   
 
@@ -74,19 +56,21 @@
 
   
   <entry>
-    <title></title>
-    <link href="https://nullnein.onrender.com/posts/2022-02-01-stuff/" rel="alternate" type="text/html" title="" />
-    <published>2022-02-28T11:48:52+01:00</published>
+    <title>Layers of learning</title>
+    <link href="http://localhost:4000/posts/Layers-of-learning/" rel="alternate" type="text/html" title="Layers of learning" />
+    <published>2022-02-28T00:00:00+01:00</published>
   
-    <updated>2022-02-20T02:10:50+01:00</updated>
+    <updated>2022-02-28T00:00:00+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/2022-02-01-stuff/</id>
-    <content src="https://nullnein.onrender.com/posts/2022-02-01-stuff/" />
+    <id>http://localhost:4000/posts/Layers-of-learning/</id>
+    <content src="http://localhost:4000/posts/Layers-of-learning/" />
     <author>
       <name>mathis</name>
     </author>
 
   
+    
+    <category term="learning" />
     
   
 
@@ -98,14 +82,7 @@
 
 
 
-      
-  Adobe now has AI-powered video editing that dissolves video into a foreground and background and allows you to modify them. The two minute papers video shows some examples but sadly doesn’t really explain how it works.
-  TikTok spilled out a very timely start into a week within the omicron wave.
-
-
-https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752
-
-https://twitter.com/DEVOPS_BORAT/...
+      We’re a group of twelve young journalists pressure cooking in an international media organization. There is this examplar thursday afternoon where we present our first radio pieces after four days of learning. Here I list some levels of learning of that week. The list is non-exhaustive and some aspects may only relate to some or one of our group. Each layer describes one aspect of learning we h...
     </summary>
   
 
@@ -114,13 +91,13 @@ https://twitter.com/DEVOPS_BORAT/...
   
   <entry>
     <title>2022-02-01 Stuff</title>
-    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
+    <link href="http://localhost:4000/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
     <published>2022-02-20T00:00:00+01:00</published>
   
     <updated>2022-02-20T00:00:00+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/stuff/</id>
-    <content src="https://nullnein.onrender.com/posts/stuff/" />
+    <id>http://localhost:4000/posts/stuff/</id>
+    <content src="http://localhost:4000/posts/stuff/" />
     <author>
       <name>mathis</name>
     </author>
@@ -152,13 +129,13 @@ Other option wo...
   
   <entry>
     <title>Migrants in the German service sector</title>
-    <link href="https://nullnein.onrender.com/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
+    <link href="http://localhost:4000/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
     <published>2022-02-11T00:00:00+01:00</published>
   
     <updated>2022-02-20T02:10:50+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/migration-service-work/</id>
-    <content src="https://nullnein.onrender.com/posts/migration-service-work/" />
+    <id>http://localhost:4000/posts/migration-service-work/</id>
+    <content src="http://localhost:4000/posts/migration-service-work/" />
     <author>
       <name>mathis</name>
     </author>
@@ -188,13 +165,13 @@ It is a late evening and being a great host she just virtually went to the kiosk
   
   <entry>
     <title>No Quittungssätze</title>
-    <link href="https://nullnein.onrender.com/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
+    <link href="http://localhost:4000/posts/Quittungssaetze/" rel="alternate" type="text/html" title="No Quittungssätze" />
     <published>2022-02-11T00:00:00+01:00</published>
   
     <updated>2022-02-11T00:00:00+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/Quittungssaetze/</id>
-    <content src="https://nullnein.onrender.com/posts/Quittungssaetze/" />
+    <id>http://localhost:4000/posts/Quittungssaetze/</id>
+    <content src="http://localhost:4000/posts/Quittungssaetze/" />
     <author>
       <name>mathis</name>
     </author>
@@ -213,22 +190,11 @@ It is a late evening and being a great host she just virtually went to the kiosk
 
 
 
-      A week of interview-training, mostly 3:30 live-interviews for radio or TV. One day of vox pops and focus, focus, focus.
+      A week of interview-training, mostly 3:30 live-interviews for radio or TV. One day of vox pops and focus, focus, focus. Some notes of what I took away from this week.
 
 Goal
 
-
-  Which type?
-    
-      Information about the matter (with an expert)
-      Profile about the person
-      Opinion on a topic
-    
-  
-  Driving Question
-  Nine-Letter headline
-    
-      Found this very helpful to define where I want to go with the interview, what is ...
+Have a clear goal in mind for each interview. Then develope your driving question and a (max) nine-letter headline that answers your question. This helps you to have focus during the interview and not loose track in your li...
     </summary>
   
 
