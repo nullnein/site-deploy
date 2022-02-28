@@ -1,6 +1,51 @@
 [
   
   {
+    "title": "",
+    "url": "/posts/2022-02-05-configuration-this-site/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-02-28 11:48:52 +0100",
+    
+
+
+
+
+
+    "snippet": "Workflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are OneWord        Open Terminal          cd /Users/mathis/mrichtm/oija/nullnein\\ on\\ github/nullnein.github.io      bundle exec jekyll build -d ~/mrichtm/oija/public-site         Github          cd _site      git add .      git commit -m &quot;message&quot;      git push -u origin main        Render.com should then auto-deploy          You can manually deploy        be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the siteSetup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial    Figure out    how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  I think it crashed"
+  },
+  
+  {
+    "title": "",
+    "url": "/posts/2022-02-01-stuff/",
+    "categories": "",
+    "tags": "",
+    "date": "2022-02-28 11:48:52 +0100",
+    
+
+
+
+
+
+    "snippet": "  Adobe now has AI-powered video editing that dissolves video into a foreground and background and allows you to modify them. The two minute papers video shows some examples but sadly doesn’t really explain how it works.  TikTok spilled out a very timely start into a week within the omicron wave.https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752"
+  },
+  
+  {
+    "title": "2022-02-01 Stuff",
+    "url": "/posts/stuff/",
+    "categories": "stuff",
+    "tags": "finance, FinancialSociety, yaml, jekyll, vorbilder",
+    "date": "2022-02-20 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "yaml tags auto-completeBrett Terpestra has a cli to auto-complete yaml frontmatter but I’m not getting that to work. But Sublime Text can auto-complete text from files within a directory. So I now add tags to jekyll posts before committing to git in Sublime Text where Sublime Text highlights all those files that haven’t been committed yet. Not clean workaround but as a start.Other option would be to look into prismic. A headless cms that would generate my post files.I thought about generating a tags list for espanso.Last Option is using VS Code and JSON Schema.FinancialSociety Reading List  Jameson, Fredric. “Culture and Finance Capital.” Critical Inquiry, vol. 24, no. 1, The University of Chicago Press, 1997, pp. 246–65, http://www.jstor.org/stable/1344165.  Konings, Martijn, and Lisa Adkins. “Re-Thinking the Liquid Core of Capitalism with Hyman Minsky.” Theory, Culture &amp;amp; Society, Feb. 2022, doi:10.1177/02632764211070776.Mohamed Amjahidhttps://twitter.com/mamjahid/status/1494737655673798659?s=20&amp;amp;t=8YaidHoi9ThPvQd7iGmxnAIm Spiegel über die deutsche Art Erinnerungskultur als Waffe einzusetzen.  Ich wäre auf jeden Fall in den Widerstand gegangen!« Diese Aussage  führte mir vor Augen, dass viele weiße Deutsche (mit  Nazifamiliengeschichte) nicht verstanden haben, dass menschenfeindliche  Ideologien wirkmächtiger sind als ein idealisiertes Selbstbild."
+  },
+  
+  {
     "title": "Migrants in the German service sector",
     "url": "/posts/migration-service-work/",
     "categories": "ideas",
@@ -76,25 +121,10 @@
   },
   
   {
-    "title": "Configuration this site",
-    "url": "/posts/configuration-this-site/",
-    "categories": "TechnicalStuff",
-    "tags": "jekyll, github, render",
-    "date": "2022-02-05 00:00:00 +0100",
-    
-
-
-
-
-
-    "snippet": "Workflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are OneWord        Open Terminal          cd /Users/mathis/mrichtm/oija/nullnein\\ on\\ github/nullnein.github.io      bundle exec jekyll build        Github          cd _site      git add .      git commit -m &quot;message&quot;      git push -u origin main      be aware it pushes to main, not master; main is the default branch, render deploys from main        Render.com should then auto-deploy          You can manually deploy      Setup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial    Figure out    how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  I think it crashed"
-  },
-  
-  {
     "title": "2022-02-01 Stuff",
     "url": "/posts/stuff/",
     "categories": "stuff",
-    "tags": "tonga, climate, Mental Health, gender, bicycle",
+    "tags": "tonga, climate, MentalHealth, gender, bicycle",
     "date": "2022-02-01 00:00:00 +0100",
     
 
@@ -103,21 +133,6 @@
 
 
     "snippet": "  The Third Pole is a publication on issues related to the climate crisis with a special focus on Global South countries. They make strong use of linking to scientific papers and interlinking other reporting.          I was especially taken by their report on natural calamities causing mental health issues in northern Pakistan. Apparently, mental health effects of the climate crisis are understudied.      They make wide use of linking to scientific papers, i.e. this one that argues for causal link between higher female representation in national parliaments and stronger climate policy outcomes.        Reuters produced a clever and simple explainer on the Tonga erruption using a gif of the ash plume overlaid onto various landmasses for context.  Fahrrad-Tools is a nice way to make knowledge on bicycle lables accessible: It searches a database of matches the label on your tire if you wonder which tube or tire fits."
-  },
-  
-  {
-    "title": "2022-01-23 Stuff",
-    "url": "/posts/stuff/",
-    "categories": "stuff",
-    "tags": "AI, video-editing, tiktok",
-    "date": "2022-01-23 00:00:00 +0100",
-    
-
-
-
-
-
-    "snippet": "  Adobe now has AI-powered video editing that dissolves video into a foreground and background and allows you to modify them. The two minute papers video shows some examples but sadly doesn’t really explain how it works.  TikTok spilled out a very timely start into a week within the omicron wave.https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752"
   },
   
   {

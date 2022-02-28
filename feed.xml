@@ -4,7 +4,7 @@
   <id>https://nullnein.onrender.com/</id>
   <title>nullnein</title>
   <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-02-15T21:29:41+01:00</updated>
+  <updated>2022-02-28T11:48:52+01:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://nullnein.onrender.com/</uri>
@@ -20,11 +20,142 @@
 
   
   <entry>
+    <title></title>
+    <link href="https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/" rel="alternate" type="text/html" title="" />
+    <published>2022-02-28T11:48:52+01:00</published>
+  
+    <updated>2022-02-20T02:10:50+01:00</updated>
+  
+    <id>https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/</id>
+    <content src="https://nullnein.onrender.com/posts/2022-02-05-configuration-this-site/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Workflow
+
+
+  Open Typora
+    
+      New Doc: :new
+      Write
+      Add title, tags, categories in frontmatter
+      tags are OneWord
+    
+  
+  Open Terminal
+    
+      cd /Users/mathis/mrichtm/oija/nullnein\ on\ github/nullnein.github.io
+      bundle exec jekyll build -d ~/mrichtm/oija/public-site 
+    
+  
+  Github
+    
+      cd _site
+      git add .
+      git commit -m "message"
+      git pus...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title></title>
+    <link href="https://nullnein.onrender.com/posts/2022-02-01-stuff/" rel="alternate" type="text/html" title="" />
+    <published>2022-02-28T11:48:52+01:00</published>
+  
+    <updated>2022-02-20T02:10:50+01:00</updated>
+  
+    <id>https://nullnein.onrender.com/posts/2022-02-01-stuff/</id>
+    <content src="https://nullnein.onrender.com/posts/2022-02-01-stuff/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+  Adobe now has AI-powered video editing that dissolves video into a foreground and background and allows you to modify them. The two minute papers video shows some examples but sadly doesn’t really explain how it works.
+  TikTok spilled out a very timely start into a week within the omicron wave.
+
+
+https://twitter.com/DEVOPS_BORAT/statuses/159849628819402752
+
+https://twitter.com/DEVOPS_BORAT/...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>2022-02-01 Stuff</title>
+    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
+    <published>2022-02-20T00:00:00+01:00</published>
+  
+    <updated>2022-02-20T00:00:00+01:00</updated>
+  
+    <id>https://nullnein.onrender.com/posts/stuff/</id>
+    <content src="https://nullnein.onrender.com/posts/stuff/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="stuff" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      yaml tags auto-complete
+
+Brett Terpestra has a cli to auto-complete yaml frontmatter but I’m not getting that to work. But Sublime Text can auto-complete text from files within a directory. So I now add tags to jekyll posts before committing to git in Sublime Text where Sublime Text highlights all those files that haven’t been committed yet. Not clean workaround but as a start.
+
+Other option wo...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Migrants in the German service sector</title>
     <link href="https://nullnein.onrender.com/posts/migration-service-work/" rel="alternate" type="text/html" title="Migrants in the German service sector" />
     <published>2022-02-11T00:00:00+01:00</published>
   
-    <updated>2022-02-11T00:00:00+01:00</updated>
+    <updated>2022-02-20T02:10:50+01:00</updated>
   
     <id>https://nullnein.onrender.com/posts/migration-service-work/</id>
     <content src="https://nullnein.onrender.com/posts/migration-service-work/" />
@@ -98,129 +229,6 @@ Goal
   Nine-Letter headline
     
       Found this very helpful to define where I want to go with the interview, what is ...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>2022-02-06 Stuff</title>
-    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-06 Stuff" />
-    <published>2022-02-06T00:00:00+01:00</published>
-  
-    <updated>2022-02-06T00:00:00+01:00</updated>
-  
-    <id>https://nullnein.onrender.com/posts/stuff/</id>
-    <content src="https://nullnein.onrender.com/posts/stuff/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="stuff" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This week has a theme: Looking at the beast. It follows how to do journalism in 2022, what asset manager capitalism is, and how you scrape twitter.
-
-Kaminska off-balance sheet
-
-Izabella Kaminska left the Financial Times and now runs her own media venture »The Blindspot«. With her own enterprise she aims twofold: First, figure out how media works by having your own media outlet. And second, bein...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Kill your darlings</title>
-    <link href="https://nullnein.onrender.com/posts/Kill-your-darlings/" rel="alternate" type="text/html" title="Kill your darlings" />
-    <published>2022-02-06T00:00:00+01:00</published>
-  
-    <updated>2022-02-06T00:00:00+01:00</updated>
-  
-    <id>https://nullnein.onrender.com/posts/Kill-your-darlings/</id>
-    <content src="https://nullnein.onrender.com/posts/Kill-your-darlings/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="learning" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      This week brought a crash course into radio. While killing your darlings is important to all work, I’ll mention it here because it hit me here so strongly.
-
-The first piece
-
-I did two pieces. One on how DW protects their journalists in Germany, with violence against members of the press increasing, as also NGOs report. For this piece, I interviewed DW’s reporter on right-wing movements who by c...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Feedback Collection</title>
-    <link href="https://nullnein.onrender.com/posts/Feedbackcollection/" rel="alternate" type="text/html" title="Feedback Collection" />
-    <published>2022-02-06T00:00:00+01:00</published>
-  
-    <updated>2022-02-06T00:00:00+01:00</updated>
-  
-    <id>https://nullnein.onrender.com/posts/Feedbackcollection/</id>
-    <content src="https://nullnein.onrender.com/posts/Feedbackcollection/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="learning" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  Ariel/Daniel
-    
-      Three-Step
-        
-          How did you feel?
-          What is the others’ take?
-          What is the instructors take?
-        
-      
-    
-  
-
-
     </summary>
   
 
