@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "2022-02-28-stuff",
+    "url": "/posts/stuff2022-02-28/",
+    "categories": "stuff",
+    "tags": "",
+    "date": "2022-02-28 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Frachtschiffe gleiten dahin."
+  },
+  
+  {
     "title": "Trust the process",
     "url": "/posts/Trust-the-process/",
     "categories": "learning",
@@ -77,7 +92,7 @@
   
   {
     "title": "2022-02-06 Stuff",
-    "url": "/posts/stuff/",
+    "url": "/posts/stuff2022-02-06/",
     "categories": "stuff",
     "tags": "journalism, finance, Asset Manager Capitalism",
     "date": "2022-02-06 00:00:00 +0100",
@@ -132,12 +147,12 @@
 
 
 
-    "snippet": "Workflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are OneWord        Open Terminal          cd /Users/mathis/mrichtm/oija/nullnein\\ on\\ github/nullnein.github.io      bundle exec jekyll build -d ~/mrichtm/oija/public-site         Github          cd _site      git add .      git commit -m &quot;message&quot;      git push -u origin main        Render.com should then auto-deploy          You can manually deploy        be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the siteSetup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial    Figure out    how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  mathjax arrows"
+    "snippet": "Workflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are lists        Open Terminal          cd_blog      bundle exec jekyll build -d ../public-site         Github          cd _site      git add .      git commit -m &quot;message&quot;      git push -u origin main        Render.com should then auto-deploy          You can manually deploy        be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the siteSetup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial    Figure out    how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  mathjax arrows"
   },
   
   {
     "title": "2022-02-01 Stuff",
-    "url": "/posts/stuff/",
+    "url": "/posts/stuff2022-02-01/",
     "categories": "stuff",
     "tags": "tonga, climate, MentalHealth, gender, bicycle",
     "date": "2022-02-01 00:00:00 +0100",
@@ -152,7 +167,7 @@
   
   {
     "title": "2022-01-23 Stuff",
-    "url": "/posts/stuff/",
+    "url": "/posts/stuff2022-01-23/",
     "categories": "stuff",
     "tags": "AI, videoediting, tiktok",
     "date": "2022-01-23 00:00:00 +0100",
@@ -196,10 +211,10 @@
   },
   
   {
-    "title": "Muvuni widersprach",
+    "title": "Muvuni Widersprach",
     "url": "/posts/muvuni-widersprach/",
-    "categories": "learning, prosa",
-    "tags": "prosa",
+    "categories": "",
+    "tags": "",
     "date": "2022-01-21 00:00:00 +0100",
     
 
@@ -207,7 +222,7 @@
 
 
 
-    "snippet": "Plötzlich stehen die Schlagzeilen einfach so in der Luft. Fred Muvunis lange, geraden Finger einfach so Trump und Djokovic beiseite gewischt. Nun wird in diesen Zeilen Politik aus der Sicht von Bauern und Arbeitern erzählt.Der Mann aus Ruanda ist heute Stratege für die Deutsche Welle, den Auslandssender der Bundesregierung. Jetzt will er die Medien verändern, so dass sie nicht jeder politischen Finte auflaufen. Denn er hat es alles gesehen: Hunger, Völkermord und die Bedrohung des eigenen Lebens.Fred Muvuni kommt 1981 in einem Flüchtlingslager in Uganda zur Welt. Sein Vater war als Tutsi aus Ruanda vertrieben worden. Bekannte zogen ihn auf, aber das Essen war knapp, manchmal Tage und Wochen, ohne etwas zu essen. Der Hunger ist nichts, keine Energie, keine Gedanken, kein Tun. Muvuni war benommen und taub. Nur eins wusste er: Er würde nicht sterben.Noch in Uganda schloss sich Muvuni als 10-Jähriger Tutsi-Truppen an. Damals Normalität für Jungen, die nicht wissen was es bedeutet zu töten, die aber eine Waffe tragen wollen. Zur Invasion wurden die Kinder 1992 nach Ruanda gefahren, zu hunderten wie Hühner in Lastwägen gepfercht. Fred Muvuni weiß nur von drei Kameraden aus den Lastwägen, die drei Jahre später noch lebten.Nach dem Krieg formte sich in seinem Kopf ein Gedanke, der ihn immer noch trägt: „Ich wollte wichtig sein. Ich wollte nicht umsonst sterben“. Er nennt es ein fantastisches Wunder der Entschlossenheit, dass er sein Mathematik-Studium abschloss. Nachts stand er dafür mit einem Gewehr an der Schulter vor dem Haus eines Geheimdienstoffiziers. Tags fuhren ihn die Beamten mit ihren dicken Autos zur Uni.Der Fußball brachte Muvuni später zum Journalismus. Erst berichtete er über Sport, dann Menschenrechtsthemen und stieg schnell auf. Als Vorsitzender der Ruanda Media Company sollte er dann auf Geheiß Präsident Kagames die britische BBC abwickeln. Muvuni widersprach.Der Sicherheitsapparat in Ruanda reagierte. Verhöre, ein erzwungenes Geständnis und Muvuni fürchtete um sein Leben. Später in Brüssel schickte Kagame noch einmal seine Häscher. Aber Fred Muvuni blieb Journalist.Bei der Deutschen Welle will er Nachrichten aus der Sicht einfacher Leute zu erzählen. Aber für diese Bestimmung sterben, das will er nicht."
+    "snippet": "date: 2022-01-21author: mathistags: prosacategory:  learning  prosatitle: M widersprachPlötzlich stehen die Schlagzeilen einfach so in der Luft. FM lange, geraden Finger einfach so Trump und Djokovic beiseite gewischt. Nun wird in diesen Zeilen Politik aus der Sicht von Bauern und Arbeitern erzählt.Der Mann aus Ruanda ist heute Stratege für die Deutsche Welle, den Auslandssender der Bundesregierung. Jetzt will er die Medien verändern, so dass sie nicht jeder politischen Finte auflaufen. Denn er hat es alles gesehen: Hunger, Völkermord und die Bedrohung des eigenen Lebens.FM kommt 1981 in einem Flüchtlingslager in Uganda zur Welt. Sein Vater war als Tutsi aus Ruanda vertrieben worden. Bekannte zogen ihn auf, aber das Essen war knapp, manchmal Tage und Wochen, ohne etwas zu essen. Der Hunger ist nichts, keine Energie, keine Gedanken, kein Tun. M war benommen und taub. Nur eins wusste er: Er würde nicht sterben.Noch in Uganda schloss sich M als 10-Jähriger Tutsi-Truppen an. Damals Normalität für Jungen, die nicht wissen was es bedeutet zu töten, die aber eine Waffe tragen wollen. Zur Invasion wurden die Kinder 1992 nach Ruanda gefahren, zu hunderten wie Hühner in Lastwägen gepfercht. FM weiß nur von drei Kameraden aus den Lastwägen, die drei Jahre später noch lebten.Nach dem Krieg formte sich in seinem Kopf ein Gedanke, der ihn immer noch trägt: „Ich wollte wichtig sein. Ich wollte nicht umsonst sterben“. Er nennt es ein fantastisches Wunder der Entschlossenheit, dass er sein Mathematik-Studium abschloss. Nachts stand er dafür mit einem Gewehr an der Schulter vor dem Haus eines Geheimdienstoffiziers. Tags fuhren ihn die Beamten mit ihren dicken Autos zur Uni.Der Fußball brachte M später zum Journalismus. Erst berichtete er über Sport, dann Menschenrechtsthemen und stieg schnell auf. Als Vorsitzender der Ruanda Media Company sollte er dann auf Geheiß Präsident Kagames die britische BBC abwickeln. M widersprach.Der Sicherheitsapparat in Ruanda reagierte. Verhöre, ein erzwungenes Geständnis und M fürchtete um sein Leben. Später in Brüssel schickte Kagame noch einmal seine Häscher. Aber FM blieb Journalist.Bei der Deutschen Welle will er Nachrichten aus der Sicht einfacher Leute zu erzählen. Aber für diese Bestimmung sterben, das will er nicht."
   },
   
   {
@@ -223,6 +238,21 @@
 
 
     "snippet": "Die Pampelmusen in grellem Orange, die Kräuter vom Mittelmeer, der knackfrische Salatgarten in zartem Grün und beruhigendem Magenta; all das perlt an der rund gebogenen Maske dieses Konsumenten ab.Er ist groß und unter seinen grauen Haaren scheint noch ein fahles braun durch. Mit festem Griff schiebt dieser Käufer seinen leeren Einkaufswagen weiter. Bis zu Gang vier klafft vor ihm dieses Drahtgestell, dann ein aufmerksamer Blick zu den Angeboten von Pfanni. Wache, flinke Augen blicken hinab in Richtung der grell roten Preisschilder. Aber dieser Konsument sucht etwas anderes.An der letzten Einfahrt macht er halt, dreht den Wagen und geht hinein. Langsamen Schrittes vorbei am Veltins und Paulaner und dann   dreht die Maske zu den aufgebahrten großen Gut und Günstig Wasserflaschen. Medium. Classic. Naturell. Schauen. Sehen. Abwägen. Denken. Wieder Schauen. Wieder Sehen.Zwei Schritte zur Seite. Noch mehr Wasser. Wieder Schauen. Sehen. Abwägen. Leicht den linken Stiefel anstellen, die Spitze anheben, Entscheidungshilfe nicht aus dem Bauch sondern aus den Füßen. Noch einmal rundherum um das Wasserregal. Preisvergleiche. Flaschenwald.Der Konsument sucht. Sucht nach Wasser. Vor einem Regal mit Flaschen. Teures Blackforrest, günstigeres Gerolsteiner, mit Geschmack, ohne. Und unten, ganz unten das Gut und Günstig.Der Konsument nimmt. Das gute und günstige von der Hausmarke. Ein Sixer der kleinen Flaschen, die mit roten Ettiketten. Für fünfzehn Cent pro Flasche, plus zehn Cent Pfand, erlöst sich dieser große, graue Konsument von seiner Suche.Das Weinregal bietet weitere Flaschen aber keine Antworten. An der Kasse klammert sich nur noch eine Synodyne Zahncreme an die sechs roten Punkte des Mineralwassers. Genervt schüttelt er den Kopf, weil die Konsumentin vor ihm so lange braucht, hier nach Kleingeld sucht, dort. Seinen Einkauf wird er kontaktlos bezahlen. Mit einer Apple Watch. Schnell und effizient.Kommentar:  Zu abstrakt mit den Vokabeln Konsument, Käufer  Zu langsam zur Action  Zu einfach Beginn und Ende gesetzt. Eingang/Ausgang des Supermarkts müssen nicht Anfang/Ende der Geschichte sein.  Langsamer Einstieg.  Blick beschreiben ist gefährlich  »Langssamen Schrittes«, was ist das?  Gute Pointen, gute Action, gute Satzkombinationen"
+  },
+  
+  {
+    "title": "Storytelling",
+    "url": "/posts/storytelling/",
+    "categories": "learning",
+    "tags": "learning journalism",
+    "date": "2022-01-12 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "This is a Journalism Toolbox. We can add to it as we go. Maybe at some point we’ll add a table of contents.Gist of a story  Protagonist, with attribute and challenge      Erzählsatz    SLAT: Shit look at that  Clear Focus  Story not topic  BME: Beginning Middle End      Heroines’ journey    Build a house: Strong Beginning/End,Pitch  What’s the story  Why now?      For whom?    Less is more  Kino im Kopf  Consider background of people you pitch to  CliffhangerGolden Rules of Storytelling  Shit look at that  Erzählsatz  Show don’t tell  Heroines‘ Journey      How to translate to one of other 32 language departments?    Research-Cross: How was it before? How will it be in the future? How is it somewhere else?  W-Fragen answered? Who, What, How, Where, When, Why, Source  Target-Audience: 14-40 yrs old urban decision-makers  Get out and off the phone: Analogue makes the difference      Avoid clichés and empty phrases: Floskelfreie Sprache    Try and Fail: Because why not  What does the user say? How can I create dialogue with my audience?  Only the best – and not the first person: Find people who are affected, experts, people responsible  Don’t be afraid of feedback      Gather: Ideas for future projects and your old stories/projects/stuff    Media-Routine: Change it up and reflect how/what media you consume?  I am responsible for the interview  Find ideas: Beware yes-but paradox – Every idea is worth to be brought into lifeInterview  No questions? No story!  W-Fragen: Who? What? Where? How? When? Why? Source  There are no right or wrong questions – there’s just the right question in the right moment MOST important is…          know what you want to know      really listen in      be flexible      Don’t lose your focus      Don’t be afraid of simple questions        Be persistent but not aggressivePreparation for the interviewFind the focus:  Who are you asking for?  How much time do you have?  What do you want to know?KINDS OF INTERVIEWS  Research interview: gaining knowledge, understanding contexts OPEN, DETAILED YET: scrutinize  Opinion interview: extremely focused on comments PERSISTENT &amp;amp; confronting views ready  Expert interview: focused with gained general knowledge OPEN &amp;amp; Facts ready to confront  Portrait: focused or wide depending on person  Mix*NEVER sent the questions, but it is possible to agree on the direction of the interview ***Stay professional! **AVOID  OR questions (or they’ll choose)  2 in 1 questions (or they’ll choose)  loosing track and if you do, say: WHY? WHAT does that mean? WHAT makes you certain?What makes a journalistic text interesting and exciting  Organisation and dramaturgy –&amp;gt; build a house  Precise and varied language (dynamic between long and short sentences; active verbs, description, change of perpective, quotation, insertions)  Free of set phrases / flowers of speech      Strong beginning AND strog end    NOT just describe stuff! Let me expirience itTeaser = story in a nutshell –&amp;gt; PUB talk  Surprise, create interest –&amp;gt; SLAT  Why do you need to know this? –&amp;gt; Wanna tell others  Context. Conflict. –&amp;gt; Happening! Problem!  Cliffhanger –&amp;gt; I gotta stay tuned!Headline  Inform as short as possible about what is going on  Create reading impulse  Clear message  Central message og the whole text: essence  DW: include all important research keywordsBut: Differenciate between news and not news"
   },
   
   {
@@ -358,6 +388,291 @@
 
 
     "snippet": "Durch den Rheinauhafen glitzert die Abendsonne. In ganz Köln lockt heute eine einzige Kulturveranstaltung. Short Story Night, fünf Kurzgeschichten, gelesen von echten Autor:innen, die mit dem Wind und der Mikrofoneinstellung kämpfen. Für alle ist der Ton etwas leise und niemand kann einfach für sich etwas lauter drehen. Eine von uns ruft schon bald laut LAUTER.Fünfzehnt Euro Eintritt, negativer Corona-Test und festgelegte Sitzplätze, etwas der Tischbühne entrückt. Keine direkte Sicht ins Gesicht der Lesenden, der Blickwinkel eher von oben herab, auf den ganzen sprechenden Menschen, inklusive der Beine.Die Sitzplätze sind auf steinernen Rängen markiert, zwei Polster pro Person. Die Ränge reichen zum Wasser hinab. Eine Sichtbetonwand fasst Ränge und Wasser ein. Niedrige Geländer trennen die Ränge von einem Weg entlang der Wand.Unser Blick schweift noch durch den Raum, sieht Spaziergänger auf den Wegen entlang schlendern. Wir lauschen den Geschichten, sie genießen den Abend.Während der ersten Kurzgeschichte bleiben Passant:innen länger stehen und spitzen die Ohren. Mit der zweiten Kurzgeschichte lassen sich außerhalb der Balustrade Hörer:innen nieder. Mittlerweile hört eine Mutter die restlichen Geschichten des Abends von außerhalb, stillt. Der Begleiter entpackt Getränke. Die beiden sind dabei. Ohne Eintrittsgeld, ohne markierten Sitzplatz, auf einem der Wege, die die Ränge einfassen. Vor der Balustrade haben sie Platz genommen, sehen durch das Geländer hindurch, lauschen dem über Lautsprecher übertragenen Ton.Wir sitzen hier im Innen, auf markierten Sitzplätzen mit Test, mit Eintrittskarte, mit Zugang zur Bar. Wir sitzen im reinlichen Innen, dessen Hygieneregeln das Tragen einer Maske auf dem Weg zur Toilette vorschreiben. Sie sitzen im Außen auf dem harten Boden der Wirklichkeit, frei zu gehen und zu bewegen. Keine Hygieneregeln, keine Aufsicht, kein Eintrittsgeld.Wenn wir genau hinsehen, dann fühlt es sich an, als streckten sie uns geradewegs die Zunge heraus: Unsere Festlegung auf den Termin, unseren Wunsch nach flauschig-weichen Sitzpolstern und unsere Eintrittsgelder verlachend. Wenn wir noch genauer hinsehen, dann bemerken wir diese Gelassenheit derer dort draußen. Zufrieden über den glücklichen Zufall, spontan einer Lesung beiwohnen zu können, voller Dankbarkeit gegenüber den Organisator:innen, ohne Erwartungen und Ansprüche.Wie wir nach den Zaungästen lechzen, sie bewundern. Wie die Zaungäste uns provozieren. Wie die Zaungäste die Grenzen des Raums verschwimmen lassen. Wo Innen und Außen ist, wird diffus. Der Ton lässt sich nicht einfangen. Wie die Zaungäste in Frage stellen, was richtig und falsch ist, wie Teilhabe funktioniert.An- oder abwesend, Getestet oder nicht getestet, bezahlt oder nicht bezahlt, stumm gestellt oder Kamera an. Zaungäste können einfach gehen, getestet sein, hinterher freiwillig spenden und ungefragt dazwischen quatschen. Ist die Zaungastschaft nicht Rebellion?"
+  },
+  
+  {
+    "title": "Regelmäßige Analyse makroökonomischer Zusammenhänge in Deutschland und Europa",
+    "url": "/posts/dzbrief/",
+    "categories": "",
+    "tags": "",
+    "date": "2020-12-06 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Für das Dezernat Zukunft publiziere ich zweiwöchentlich einen Newsletter zu aktuellen Ereignissen deutscher Fiskal- und Geldpolitik. Natürlich spielen dabei immer wieder europäische Fragen eine Rolle.Der Newsletter ist in einfacher Sprache gehalten und diskutiert jeweils größere Zusammenhänge wirtschaftspolischer Entscheidungen.Hier geht’s zu den Ausgaben des Dezernatsbriefs."
+  },
+  
+  {
+    "title": "Essaypreis der Hertie-Stiftung",
+    "url": "/posts/hertie/",
+    "categories": "academia",
+    "tags": "central banking, FinancialSociety",
+    "date": "2020-11-06 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Mein mit Max Krahé gemeinsam verfasster Text  „Onwards, but not via Beijing: for a re-embedded liberalism” wurde von der Hertie Stiftung mit dem Essaypreis 2020 ausgezeichnet. Wir teilen uns den zweiten Platz mit dem Autorenduo Steffen Murau und Andrei Guter-Sandu, deren Text fast komplementär zu unserem funktioniert. Unser Text wurde folglich in der Wirtschaftswoche publiziert.  Der ausgezeichnete Text als pdf  Mitteilung der Hertie-Stiftung  Publikation in der Wirtschaftswoche"
+  },
+  
+  {
+    "title": "Old Grav page this page, page",
+    "url": "/posts/grav/",
+    "categories": "gestaltung",
+    "tags": "grav",
+    "date": "2020-06-20 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "When I looked around for a Content Management System for the now all new trykka.de page, I stumbled across Grav. Grav is a flat file system CMS and you can just fall in love with it. You simply download one of their skeletons and have a website running in your Finder because you can run  php -S localhost:8003 system/router.php in Terminal and point your browser to localhost:8003 and the website is there. Later you push this folder onto your Apache webserver, done.This website also uses Grav. One of the reasons is that I need to run the system myself that I wish to use in other projects. Otherwise I’m no help in support questions. I know Wordpress fairly well and have built numberous websites with it. But Grav with its flat file structure just feels so much more up to date than mySQL databases.So here I encounter smaller obstacles in enhancing this site. I use a macbook pro and code in Sublime Text 3. I can just so much recommend Sublime Text. Especially for the flat-file structure its sidebar is great help.Being able to build right through running a apache server on your mac, makes developing fun. That way I can code on the train even if there’s no wifi. Its just a bummer I can’t google for help then."
+  },
+  
+  {
+    "title": "Zentralbankkooperation funktioniert – für manche",
+    "url": "/posts/zentralbankkooperationfuermanche/",
+    "categories": "academia",
+    "tags": "central banking, Zentralbankkooperation, FinancialSociety",
+    "date": "2020-04-06 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Zentralbanken wie die EZB, die Federal Reserve oder die Bank of England kümmern sich im Allgemeinen um die Geldmärkte in ihrem jeweiligen Zuständigkeitsbereich. Sie stellen den Banken und Finanzakteuren Liquidität zur Verfügung, um etwaigen Finanzierungsstress zu mildern und so zu verhindern, dass aus Liquiditätsengpässen Solvenzprobleme entstehen. In einer Krise wird dies als „Lending of Last Resort“ bezeichnet und geht auf die Regel des Finanzjournalisten Walter Bagehot zurück, in Krisen „frei zu verleihen, zu einem Strafzins und gegen gute Sicherheiten„. Sowohl in der Finanzkrise von 2007/08 wie auch in den vergangenen Wochen sind Zentralbanken dieser Rolle nachgekommen.Der Artikel ist bei Dezernat Zukunft erschienen"
+  },
+  
+  {
+    "title": "Financial Times - Why FX swap lines are back",
+    "url": "/posts/swaplinesalphaville/",
+    "categories": "",
+    "tags": "FinancialSociety, central banking",
+    "date": "2020-03-16 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Financial Times Alphaville early in the Corona-Crisis published my essay on why foreign exchange swap lines between C6 central banks are back.»read on"
+  },
+  
+  {
+    "title": "The market gets what it wants",
+    "url": "/posts/marketwhatwants/",
+    "categories": "academia",
+    "tags": "FinancialSociety, central banking",
+    "date": "2019-12-30 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "One thing the central bank cannot do: Refuse market sentiment.Novelties in central banking since 2007/08 have seen much discussion. But the  introduction of somewhat overlooked permanent central bank liquidity  swap lines can shed a light onto future monetary policy, such as a  standing repo facility.The lines were first introduced in December 2007, when the Fed and the ECB  and the Fed and the SNB swapped currencies so that the off-shore central banks could provide their banks with greenbacks. The Fed extended this  facility in the turmoil of 2008 but most importantly the feature became a permanent backstop to Eurodollar markets in October 2013.The swap lines that the Fed set up with the Bank of England, European  Central Bank, Swiss National Bank, Bank of Japan and Bank of Canada  (together the C6) now are unlimited, permanent and reciprocal.  Furthermore, all participating central banks share the same agreements  amongst each other. European and Japanese banks are using the dollar  allotments at their respective central banks on a weekly basis, albeit  at small amounts. And the BoE in March of 2019 drew on this agreement  when it activated its line with the ECB.Image from Bahaj, Reis (2019)Ad-hoc international lending of last resort was already common before  financial journalist and monetary theorist, Walter Bagehot, urged  central banks to provide liquidity during a squeeze. Take, for instance, the case of winter 1857 when the Austrian National Bank sent a train  carriage full of silver to the free city of Hamburg. The Hansestadt had  been running very low on silver reserves. A liquidity crisis there saw  merchants unwilling to clear their shipments. Anecdotal reference holds, that as the train arrived and took a turn through the city, trust was  re-established and money changed hands again.The example with missing silver in Hamburg but excess silver in Vienna  exemplifies what happened in the 2007/08 Eurodollar squeeze. European  banks that had funded their dollar portfolios short-term saw a hike in  funding costs after French bank BNP Paribas closed access to three of  its hedge funds. These increased costs meant a liquidity crisis for  European banks, as they were able to access Euros, but not dollars, from the ECB.Swap lines between central banks fixed this issue from December 2007  onwards. That the network of swap lines between six central banks became permanent in 2013 fixed the missing backstop to Eurodollar markets and  put a cap on funding costs.Three lessons for broader monetary policy can be learned by studying the process that led to the 2013 decision.First, who is part of the major-currency backstop-club is a question of  geopolitics. Most studies on swap lines by political economists find  that alignment with US interests of capital account openness or exposure of US financial institutions were key determinants on whether Emerging Market central banks received a Fed swap line during the crisis. The C6 club, however, was less  formed by economic determinants or foreign policy preferences. As a  former Fed official tasked with setting up the swap line network again  during the wake of the Eurocrisis in 2011 told me, the Bank of Canada  for one was simply included because they had been part of the club  before. No further questions asked. The previous institutional setting  was simply sticky, a facet of the international financial architecture  which the Amsterdam political economist Marieke de Goede calls „frozen  power structures“.Third, the facility became permanent, once the market simply expected it to be there. Initially, swap-lines were introduced to reduce stress in the  market and create certainty about funding. Reassuring markets also  featured as the main concern when Fed staff moved a decision on  prolonging temporary swap-lines to an earlier meeting. They were  concerned that “as the deadline grew closer, the markets would start to  worry about whether the swap-line was going to be there or not,“ as one  of the designers of the tool, Nathan Sheets, argued in 2010. Swap lines  were extended again and again because “allowing the swap-lines to expire would seem to create unnecessary risks,“ as Brian Sack, then manager  of the New York Open Market Account, put it. In October 2013 the same  argument was used to justify the permanent introduction of the feature.  Staff to the FOMC contended that standing lines would “reduce  uncertainty among market participants as to whether and when these  arrangements would be renewed and would limit the risk that decisions  regarding the renewal of these arrangements would be misinterpreted.”These three lessons shed light on the debated standing repo facility. Former NY Fed chairman Bill Dudley now calls for such a tool that updates the lender of last resort facility to current market environments. Just as liquidity swap lines cap deviations from covered interest parity, a permanent Fed repo would cap repo rates. And just like swap lines  solve dislocations in Eurodollar funding, the Fed repo counters  pass-through issues with domestic reserves.If decision-making follows the in the same vein as it did with the swap  lines, the standing repo facility will be there soon, just as analysts  at Deutsche Bank and Citi have already argued last year. The Fed has intervened again and again and tasked the trading desk at  the NY Fed to do so „until instructed otherwise“. The market will soon  simply expect it to be there. It will then be more costly for the Fed to dismantle the facility than to perpetuate it. And just like with swap  lines, Fed officials will warm to the understanding presented by Dudley: The Fed earns on Treasury holdings more than it pays on reserves issued to banks. And lastly, a standing repo facility will perpetuate power  structures within International Finance. Choosing the five partners for  the C6 swap lines followed a momentum of old Basel Club friends. The  backstop to the repo market will strengthen the position of US primary  dealers vis-à-vis money market participants elsewhere."
+  },
+  
+  {
+    "title": "From Bazooka to Backstop The Emergence of a Permanent International Lender of Last Resort",
+    "url": "/posts/bricolag/",
+    "categories": "academia",
+    "tags": "FinancialSociety, central banking, bricolage",
+    "date": "2019-10-23 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "My dissertation at LSE was titled “From Bazooka to Backstop: The Emergence of a Permanent International Lender of Last Resort”. In it, I explain how it came to be that in 2013 six major central banks decided to implement what some now call the C6 liquidity swap line network. Arguably, this is a permanent International Lender of Last Resort. I draw on arguments by Claude Lévi-Strauss to argue that central bankers design institutions by bricolage. They craft international institutions not so much in a rationalist, forward looking way but rather creatively re-deploy existing means.You can find an outline of the dissertation below. The text itself and a link to a presentation on the topic are linked below that.  Permanent domestic discount window lending has been established since at least the 20th century as a core feature the central bank provides. We have also historically witnessed numerous cases of temporary international lending of last resort (ILOLR) between sovereign central banks. A permanent backstop to international Eurodollar markets has long been debated and sought for but remained technically impossible (Fischer 1999). The emergence of a permanent ILOLR in the shape of the C6 liquidity swap lines therefore begs explanation. The six major central banks since 2013 uphold this new institution of monetary cooperation through which they provide liquidity to each other at unlimited amounts. My work draws on work by the anthropologist Lévi-Strauss (1966) and understands the emergence of this international backstop as a ‘design by bricolage’. Therefore, central bankers followed a (1) dialectical process of agency and structure and (2) creatively re-deployed tools that existed previously. The C6 network therefore is no perfect solution and prone to instability. The presented work thus expands on ‘infrastructural entanglement’ (Braun 2018) of central banks in financial markets and makes the precise practices (Schatzki, Knorr-Cetina, and von Savigny 2001) visible that constrain and enable central bankers’ decision making.  Dissertation full text  Presentation ‘Central Bankers are Bricolageurs’, October 25th 2019, FMM Berlin  Presentation ‘From Bazooka to Backstop’, December 12th 2019, Intersections of finance and society, London"
+  },
+  
+  {
+    "title": "Why would the ECB sustain British banks’ LiFE?",
+    "url": "/posts/ecbsustainboe/",
+    "categories": "academia",
+    "tags": "FinancialSociety, central banking",
+    "date": "2019-03-25 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Why would the ECB sustain British banks’ LiFE?One little detail in the recent Brexit turmoil has been overlooked:  Invoking an agreement between six central banks from 2013, the Bank of  England in March activated its bilateral liquidity swap line with the European Central Bank. This technicality means, that British  banks from now onwards will be able to obtain Euros directly from the  Old Lady of Threadneedle Street. Tellingly, the Bank of England calls  this new measure “LiFE”: Liquidity Facility in Euros.Photo by Christian Wiediger on UnsplashThis is odd in three ways: First, while Theresa May tries to sever the ties  with the mainland, the unelected officials at the Bank of England  strengthen them. Second, while British central bankers do not explicitly say so, the timing lets me (and others) assume this measure is intended to mitigate money market stress in case of a no-deal or bad-deal Brexit. That the ECB is willing to lend out  Euros to British banks by way of the BoE doesn’t directly seem to be  motivated by price-stability concerns. Put differently: Why would the  ECB help out the BoE and is this help within the ECB’s mandate? Third,  this measure points towards an inherent tension: While for example  British importers will face higher costs due to the current uncertainty, the island’s banks enjoy certainty with respect to their euro-funding  costs. While this may be justified by the central role of the banking  system within an economy, this instance highlights the explicit  preferential treatment of banks which apparently don’t have “to get fit for Brexit” because they have a backstop.Why are standing swap facilities different?For context, in the financial crisis the US Federal Reserve established so-called liquidity swap lines with a whole range of central banks around the world. In swapping their currency for dollars with the Fed, those other central banks could lend out dollars in their jurisdictions. The measure was intended to  alleviate money market stress. All of these lines were subsequently  ended again. Arguably, this lending of last resort backstopped the  Eurodollar market. Historically speaking such international lending of  last resort is quite common: Central banks have emergency-lent to each other gold or silver for numerous times in the 19th century. And the Fed and the US Treasury lending out dollars to Mexico in the mid 1990s is a recent such  example.What made 2013 different was that six central banks declared standing  facilities of bilateral swap agreements to be present until further  notice. With not immediate crisis, lending facilities would simply be  there to use. Participating central banks are the Fed, the European  Central Bank, Bank of Japan, Bank of England, Swiss National Bank and  Bank of Canada. Especially the dollar line with the Fed is of interest  because it has been active all the time. Dollar auctions are for example held at the ECB weekly and banks have made use of this every week since.There is an increasing body of literature on Lender of Last Resort facilities in the Great Financial Crisis. What the March 5th announcement of the  Bank of England highlights is that these facilities are far from being a “last resort”. They are not just ad-hoc put in place to deal with a  crisis but rather there to alleviate stress before the crisis emerges.Its international discount window lending!Ricardo Reis and Salem Bahaj argue, that the facility essentially creates discount window lending in a foreign currency and thus puts a ceiling on deviations of Covered Interest Parity (the basis). From a central banker’s perspective the feature is quite nice. With the Bank of England’s concern for financial stability it is easy to see why being able to lend Euros to its banks is handy when nobody is clear how future relations with Euro-governments will look like in the  foreseeable future. It reduces contingency. And with Bahaj actually  being employed at the Bank of England presently, they have in-house  knowledge activating this feature puts a ceiling on funding cost  deviations between the Pound and the Euro. This is beneficial for  British banks in terms of competitiveness with European banks and  lessens liquidity risks.But what’s the political economy here? Democracy, Legality, Interest-groupsThese are aspects of economics. In terms of political economy, though, I have struggled so far to grasp this institutional innovation. This is why  looking at the just recently activated swap line between the Bank of  England and the ECB is interesting.I have outlined above three oddities that arise from a political economy  reading of the situation and will address them in turn. They are  essentially structured by the themes of democracy, legality and  interest-groups. It may also be important to note that I do not take  umbrage with the facility (and even if I did nobody would care). I would just like to point to seeming oddities.First, while it is government policy to get out of the European Union, the  Bank of England strengthens integration with the European Central Bank.  Prima facie, this only highlights features of global financialization: “the integration of previously national money markets and capital markets”.While “getting out of the EU” doesn’t mean “getting the Euro out of Great  Britain” I argue at least on an institutional level a link between  central banks was permanently activated that wasn’t there before. This  mostly points towards the tension between democracy and central bank  independence. With the latter being a tool of globalized finance,  decisions that are “good” for the economy can be made without government policy interfering. The Independent puts it differently:  It means that even if the UK crashes out of the EU without a deal, the country will still remain reliant on Frankfurt to help safeguard the financial system.Second, I am sure the European Central Bank did its legal checks when going  forward with the standing facilities in 2013. But the ECB’s mandate asks it to provide price stability for the Eurozone. Within this narrow  reading there is no clear indication how backstopping the British  banking sector is justified. On the other hand, stress in the British  market would possibly spillover to the Eurozone. Then, the facility  promotes financial stability in the ECB’s jurisdiction. This  institutional evolution towards financial stability is at least  interesting with regards to current discussions on changing the ECB’s mandate.There would be the argument that maintaining the active swap-line with the  BoE comes at no cost for the ECB. It reduces the question why permanent  liquidity swap lines emerged in 2013 to a “why wouldn’t they?”.Photo by Michael Jasmund on UnsplashThird, I would like to point to the tension of interest groups. It is clear  that distortions in money market funding would further ripple through  the British economy and the active Euro-line may mitigate such risks.  But living in London at the moment I daily pass by advertisements from  the government pushing businesses to get ready for Brexit. This clearly  also applies to banks. They surely, too have to get a lot of work done  in this regard. But they won’t have to hoard Euros to remain liquid. On  the other hand the UK’s largest supplier of toilet paper stockpiles its main asset. Again, I’m not disagreeing with the policy. But it clearly shows who is treated preferentially. Then again, I am sure the ECB would be happy to supply toilet paper and swap it for Pounds if it came for free to the  ECB. And whats worse, no Euros or no toilet paper?"
+  },
+  
+  {
+    "title": "Szenische Darstellung von Illiquidität und Insolvenz",
+    "url": "/posts/liqszen/",
+    "categories": "bildung",
+    "tags": "FinancialSociety, finance, liquidity, solvency",
+    "date": "2018-04-19 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Workshop zur Vermittlung geldtheoretischer ZusammenhängeOb eine Finanzinstitution illiquide oder insolvent ist, stellt eine recht weit greifende Unterscheidung dar. Herkömmliche Krisenerklärungen fokussieren darauf, das Banken oder andere Institute nach ihrer Insolvenz „durch Steuerzahlerinnen gerettet“ werden mussten. Dies schließt in der Darstellung Praktiken aus, die auf die kurzfristige Bereitstellung von Liquidität durch Zentralbanken zum Ziel haben. Bis heute ist die Diskussion anhaltend, ob die Krise der Zahlungsunfähigkeit 2008 eine Liquiditäts- oder Solvenzkrise war. Beide Konzepte sind Formen der Zahlungsunfähigkeit. Ich habe dazu auch einen einen Blogeintrag bei Medium verfasst.Die Teilnehmenden erhalten Kurzbeschreibungen von Szenen. Diese stellen jeweils einen Fall von Insolvenz oder Illiquidität dar. Die Teilnehmenden wählen selbst eine Form der Darstellung ihrer Szene und präsentieren diese im Plenum.  Zielgruppe: Ab Sekundarstufe II, von mir durchgeführt mit Schülerinnen und Schülern 9.-11. Klasse  Dauer: 110 Minuten  Vorwissen: Kein Vorwissen, Vertiefungsmethode  Ziel: Vertiefung von Begriffen  Methodik: Szenische Darstellung, Theaterpädagogik  Moderation: -Die ersten drei Szenen beschreiben Probleme der Illiquidität. Nur die Szene der Geschäftsidee stellt einen Fall der Insolvenz dar. Die Methode zeigt auf, dass wir individuell Insolvenz kaum verstehen, da es ein rechtliches Konstrukt aus der Geschäftswelt ist. Insofern liegen Betrachtungen der letzten Finanzkrise als Krise der Illiquidität recht nah.Folgendes Video ist als Ergebnis einer Gruppenarbeit am Otto-Hahn-Gymnasium Göttingen bei Projekttagen „Was kracht wenn die Börse kracht?“ entstanden. Ich dankehttps://youtu.be/S8woEHBOLT0Downloads  Workshop-Plan und Szenen"
+  },
+  
+  {
+    "title": "Explainities zu Geld, Kredit, Bank, Börse, Finanzkrise",
+    "url": "/posts/explainity-geld/",
+    "categories": "bildung",
+    "tags": "FinancialSociety",
+    "date": "2018-04-19 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Workshop zur Vermittlung geldtheoretischer ZusammenhängeDiese Workshopeinheit habe ich konzipiert, um Teilnehmenden die Möglichkeit zu geben sich eingehender mit Grundbegriffen der Finanzmärkte auseinander zu setzen. Die Teilnehmenden setzen selbst recherchierte Informationen und ausgeteilte Definitionen in kleinen Erklärvideos um.  Zielgruppe: Ab Sekundarstufe II, von mir durchgeführt mit Schülerinnen und Schülern 9.-11. Klasse  Dauer: 130 Minuten  Vorwissen: Kein Vorwissen, Vertiefungsmethode  Ziel: Vertiefung von Begriffen  Methodik: Videoerstellung  Moderation: Ein bisschen Geschick mit Video-/Tonaufnahmen / Videoschnitt hilft beim DurchführenAls Beispiel-Explainity habe ich die ersten 3:50 Minuten des Videos zu Aktien mit den Teilnehmenden geschaut:https://www.youtube.com/watch?v=R2ZFgLROtTYDieses Video ist mit Vorsicht zu betrachten, denn es stellt IPOs als Kapitalaufnahme für zukünftige Investitionen dar. In der heutigen Zeit ist dies so nicht mehr der Fall. Siehe dazu auch folgenden Artikel der Financial Times Alphaville.Downloads  Workshop-Plan und Definitionen  Mehr Definitionen im Glossar des ATTAC-Materials"
+  },
+  
+  {
+    "title": "Workshop zur Vermittlung geldtheoretischer Zusammenhänge",
+    "url": "/posts/eurow/",
+    "categories": "bildung",
+    "tags": "FinancialSociety, Geld",
+    "date": "2018-04-19 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Diese Workshopeinheit habe ich mit ATTAC für deren Bildungsmaterialien zu “10 Jahre nach der Krise” entwickelt. Sie ist eine der Einführungsmethoden in deren Modulkatalog, den ich allen, die zu Geldpolitik und ökonomischen Themen Bildungsarbeit machen wollen nur wärmstens empfehlen kann.  Zielgruppe: Ab Sekundarstufe II, von mir durchgeführt mit Schülerinnen und Schülern 9.-11. Klasse  Dauer: 35 Minuten  Vorwissen: Kein Vorwissen, Einführungsmethode  Ziel: Einführung in Begriffe zu Wert, Geld, Kredit  Methodik: Gruppengespräch  Moderation: Die Methode erfordert gewisses Vorwissen der Moderation zu den angesprochenen Themen.  Die Aktivität ermöglicht einen lebensweltnahen Einstieg in das Themenfeld Geld, Wert und Preisfluktuation. Ausgangspunkt sind einfache Fragen, wie zum Beispiel: »Was geben Sie mir für ein Stück von diesem Kuchen?« Die Teilnehmenden erleben im Abgleich mit der Gruppe individuelle Unterschiede in der preislichen Bewertung von Gegenständen. Durch gezielte Zwischenfragen stellt die Moderation Zusammenhänge her und führt Begriffe wie Gebrauchswert, Warentausch, Geld, Preis, Kredit, Zins oder Wertpapiere ein.Die Materialien können bei Attac bezogen werden."
+  },
+  
+  {
+    "title": "On democratizing financial knowledge",
+    "url": "/posts/demofinance/",
+    "categories": "",
+    "tags": "FinancialSociety",
+    "date": "2018-03-30 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "We have let finance to those who know about it. We should, though, discuss the details of the financial fabric around us and push it into  political agenda.My generation hears the word crisis everywhere. But what do we make of  that in political terms? Do we have the vocabulary and perspectives to  describe our realities? Photo by Robert Metz on UnsplashIt will be ten years after Lehman went bust this fall. There are many  thoughts about this. One of my reocurring ones is: Do we know what  happened? And with that I don’t mean “we”, the ones who are interested  in repos, liquidity coverage ratios, financial-stability-currency-swap  kind of nerds, but normal people, who have not as a job to read research or finance related literature on a frequent basis.Gladly, I am involved in the process to create educational material on “Ten  years after the crash” for age groups upper middle and high school. We  try to come up with engaging, maybe playful, but definitely thoughtful  educational methods to be used in schools. We have an activity that will draw students in, engage in such an abstract topic as economics in  their daily lives. Like, “What could you buy with one Euro, or with ten? And what with a stock that is worth ten Euro?” or, we talk about bank  bailout packages and try to build reference for what building a local  soccer field or repairs in their schools would cost. We offer newspaper  articles for discussion in reference to our constitutional law and how  house evictions could be seen under such a perspective.This work is very engaging. I constantly have to boil down, think again and  discuss how we perceive reality. And that is what I mean by saying: Do we know what happened?What happens when a bank goes bustWe have for example an activity that intends to explain what a  bank-insolvency is. We draw up how balance sheets work, how maybe a  student in school has a deposit account and their parents a mortgage on  their home. And then we explain what happens to that bank if loan  repayments are missed. Now, at this point our activity focusses on  losses on equity of the bank and it thus becoming insolvent. And this is what happened essentially in Germany, where Commerzbank after trying to buy Dresdner Bank had a terrible cough and just with the help of  government intervention could bolster its capital cushion enough to  remain solvent.I wasn’t part of the team planning this activity, that I now like very  much. It tries to explain in very hands-on ways what a bank-insolvency  is.I, on the other hand, had thought of the crisis differently: I had looked  only at a couple of months earlier than the Commerzbank incident. I had  in my thoughts of what happened in the financial crisis only looked at  the funding crisis that crushed Lehman. I had only taken the angle of a  liquidity crisis. I had heard Perry Mehrling speak, read Minsky and used their writing, as well as, “the run on repo” as lecture material. Thus, in the activity we have on solvency of a bank, I was a little uneasy. Does it really explain what happened? Should we rather focus on the solvency or the liquidity aspect of the crisis?Some insights into liquidity vs. solvencyAnd now I am extremely glad that I made myself write this up. Because it  made me google and find a wonderful article by the excellent Noah Smith  who asked exactly this question. 2008: Liquidity crisis, or solvency crisis?He’s quoting Steve Williamson with words that I couldn’t possibly shorten, thus excuse the long quote:  One [the liquidity crisis] view is that the fragility is inherent to  financial systems. This view is framed in some versions of the  Diamond-Dybvig model, in which the maturity mismatch and illiquidity  inherent in banking imply that bank panics are possible. An alternative  [the solvency crisis] view is that the fragility is induced…a  too-big-to-fail financial institution understands that it is  too-big-to-fail, and therefore takes on too much risk, relative to what  is socially optimal…This high level of risk could be reflected, for  example, in a high-aggregate-risk asset portfolio, or in a maturity  mismatch between assets an liabilities…[I]t is possible that Lehman  Brothers could have taken corrective action…to ward off failure, if it  had correctly anticipated that a bailout would not occur.Noah then concludes by writing, that he himself is undecided whether 2008  was a liquidity or a solvency crisis. But the distinction is  fundamentally important because of the policy implications they carry.  While the solvency perspective holds the “Moral Hazard” explanation for  us and leads to stability mechanisms that focus on monitoring and  bailing out (fiscal policy), the liquidity perspective focusses on  deposit insurance and, yes, liquidity ratios — thus also monitoring,  lender/dealer of last resort facilities by central banks (monetary  policy).The article is quite complex. I just spent an hour and a half diving into the theoretical papers Noah quotes. On the Diamond-Dybvig model, or on herding, here or at the FED. And I ponder how much I actually know about what happened in 2008 and how much I just learned through writing this down.Following this short theoretical excursion, I would like to share two thoughts  about how this distinction is important to a democratic, political  public. Namely, I argue that increasing plurality of perspectives as in  ways to make sense of “reality” adds democratic steadfastness as it  offers positions to take and argue for instead of a “there is no  alternative”-narrative. Second, on a broader but also more concrete  note, I argue that major changes in monetary and fiscal policy personnel need to be much stronger publicly controlled.Democratization of financial knowledge means adding complexityAn argument about current politics and a public discontent with it is that levels of complexity in our current world aren’t addressed thoroughly  enough. This obviously becomes apparent in topics of the financial or  euro crisis, crisis management or resulting monetary policy like QE.With this in mind, I pose the question of: How much would it be good for a  democratic society to understand the details of what happened in the  last financial crisis, that still has its effects with rising rents,  unemployment, pension losses and the still ongoing greek disaster. Does  it matter to this public whether to look at the crisis in terms of a  liquidity or solvency perspective?Would we, with adding an activity to our banking crisis material that covers a liquidity crisis perspective, add to the perceived over-complexity of  finance that must as a consequence have the reaction of “fuck it, too  complex, don’t give me more perspectives, let Mario decide”?Like, warding off any more complexity?I don’t think so. I think opening up new perspectives to a situation,  discussing them or just simply trying to understand them would add  exactly to our democratic process what we are missing at the moment.  Understanding the issues of liquidity is much harder than understanding  solvency. We all know what happens when we individually run out of money in the bank. But with a growing financial industry it makes sense to  pursue understanding of what a funding crisis is. Because as Perry  Mehrling would put it: Liquidity kills quick.Also, the implied “moral hazard” in the solvency perspective always left me  somewhat puzzled. It seems to come down to “greedy” bankers so much, to  the “nature” of human beings to be rapacious. This is countered by the  systemic explanations like those of herding or Minsky’s inherent  financial instability. If the naturalistic assumption humans just  individually being ex ante greedy holds, we should wonder if there is  any path out of thus created financial instability at all. A systematic  perspective on the other hand doesn’t offer quick policy responses like  raising capital buffers, but it may offer long term approaches to  financial stability, targeting the inherent asset-liability mismatch of  every financial agent who is interwoven into the financial fabric.Perry’s Money View with his elasticity-discipline-approach (which is by the way super useful for explaining current surges in  equity, private equity, real estate and even “crypto”) actually suggests embracing both perspectives as being true descriptions of “reality” and the swinging pendulum between scarcity of (ultimate) money and elasticity of (derivative) credit makes for two perceptions — solvency vs. liquidity — on the same issue.A political debate on the two perspectives and their implications touches basic questions of “how we treat each other” (see moral hazard) or  “what role the law should play in human interaction” (see policy).  Teaching a plurality of ideas, embracing the controversy, even  opposites, strengthens democratic steadfastness by bringing the fresh  wind of new vocabulary to describe one’s reality.The role of monetary and fiscal policy personnelMonetary policy and financial regulation should be carried out and decided on by highly trained people who can still feel emotions and not act as robots catering to “the market”. But for that to happen the above mentioned  democratic public needs the tools and the knowledge to control these  experts.Next year Mario Draghi is set to leave the top post at the ECB. In Germany’s last year federal elections the conservative Bundesbank chief’s  nomination to his replacement wasn’t among the topics discussed by  political parties. Installing the hardliner Weidmann as the Eurozone’s  top financial regulator and central banker wasn’t part of this  democratic process. A shame.Also, this week Germany’s freshly baked Minister of Finance Olaf Scholz made a statement that fits into my reasoning. For reference, Scholz is now  replacing his eight-year-predecessor Wolfgang Schäuble who is famous for his anti-european and Germany-first agenda during the euro-crisis.  Also, he is the politician who during a time of record low interest  rates and a record high infrastructure investment backlog, is proud of  the “black zero”, indicating a happiness for a balanced federal budget  with no added government deficit.Scholz now this week stepped in front of international press and said he will stick to the “black zero” and: “A German finance  minister is a German finance minister, the party affiliation plays no  role there”. Mr Scholz should ask himself whether his voters voted for  the obscure role of “a German finance minister” or for the  social-democratic party he is part of. With his SPD on the brink of  being a relevant party the party-head should take democratic decision  making seriously and not pursue the same agenda his conservative  predecessor propagated. Because there are alternatives. Teaching about  them could make them gain traction.Re-power the financial society, bottom upAnd here is finally where I make full circle back to the activity about  solvency, on how Commerzbank was rescued. This understanding in a  general public is important. Offering alternative perspectives will  always add to democratic decision making strength. Getting a feel of what happened in the crisis into the public remains a target for all of us who’s job it is to teach and  think about finance. Deciding on the steps to be taken should be a  democratic process that necessarily has a bunch of alternatives to  choose from. An explanation that focusses on solvency and one that  focusses on liquidity. And best: One on hearding, too. Financial Society is the name of our time and educational material that captures our core interlinkings democratizes knowledge to re-power, bottom-up."
+  },
+  
+  {
+    "title": "Political Economy of Finance - A university seminar",
+    "url": "/posts/pefinance/",
+    "categories": "bildung",
+    "tags": "FinancialSociety",
+    "date": "2018-02-23 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "» download syllabusI held a seminar at Göttingen University in winter term 2017/18 titled “Political Economy of Finance - Perceptions Ten Years after the Crash”. The seminar was directed at undergraduate and graduate level students who could by attending and writing a 15 page seminar paper aquire 6 ECTS points when studying with the economics faculty at Göttingen University. In line with other teaching within Kritische Wirtschaftswissenschaften Göttingen this seminar was open to students from all areas and levels. This caters to the fact that we believe econoimics teaching to be open in terms of a social science and thus discussion and text oriented. We had great insights from master’s level business administration and great presentations from undergraduates on Securitization.You can find the seminar proposal here: http://kriwigoe.de/2017/08/political-economy-of-finance/"
+  },
+  
+  {
+    "title": "Warum es Ausdruck meines politischen Verdrusses ist, dass ich nicht in die SPD eingetreten bin, um über die GroKo abzustimmen.",
+    "url": "/posts/spd/",
+    "categories": "",
+    "tags": "",
+    "date": "2018-02-08 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Ich bekomme wöchentlich etwa vier bis fünf Mails zu Petitionen von Change.org oder ähnlichen Plattformen, bei denen ich mit meiner Unterschrift das Klima oder die Bienen retten kann. Und jetzt kam Kevin Kühnert und schlägt mir vor, was diese Pettitionsverbreiter auch tun: Schnell Mitglied werden und dann Abstimmen.»read on"
+  },
+  
+  {
+    "title": "Workshop Koloniale Kontinuitäten",
+    "url": "/posts/kon/",
+    "categories": "bildung",
+    "tags": "colonialism, rassismus, Freiwilligendienst, globales Lernen",
+    "date": "2017-08-19 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Workshop für Teilnehmende von weltwärts Freiwilligendienst  Zielgruppe: 17-25 jährige (ggf. auch in der Erwachsenenbildung)  Dauer: 110 Minuten (15 Minuten Vorbereitung im Raum)  Vorwissen: Vorherige Einheiten zu Rassismus, Kolonialismus sinnvoll  Ziel: Kritische Auseinandersetzung mit Entwicklungszusammenarbeit, Freiwilligendienste im Kontext der EZ, Aufzeigen der Kontinuität von - Kolonialismus und Rassismus  Methodik: Zitat-Ausstellung, Plakat-Gruppenarbeit, Globales LernenTeilnehmende des Workshops vertiefen Gelerntes aus Workshops zu Rassismus und Kolonialismus und verknüpfen Diskurse selbstständig. Im Raum wird eine Zitat-Ausstellung ausgehängt. Die Teilnehmenden sehen sich diese selbstständig in einer Ruhephase an. Sie wählen sich ein Zitat selbstständig aus. Folgend finden sich Kleingruppen zusammen. Darin beziehen die Teilnehmenden die jeweils gewählten Zitate aufeinander. Dazu verwenden sie Plakate, Kleber, Stifte, Garn, Scheeren, Marker, whatever. Die Moderation markiert im Vorraus jeweils zueinander passende Zitate mit dem gleichen Symbol. So finden sich die Kleingruppen über die gleichen Symbole ihrer selbstgewählten Zitate.Downloads  Zitat-Ausstellung.pdf  Workshop-Plan.pdfWenn Sie Zitate haben, die in meine bisherige Sammlung passen würden, freue ich mich über deren Zusendung und pflege diese gerne mit ein."
+  },
+  
+  {
+    "title": "Econonmics ≠ Numbers",
+    "url": "/posts/ecnumbs/",
+    "categories": "",
+    "tags": "",
+    "date": "2017-01-19 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "What’s the meaning of those numbers? What do they express or represent? (Picture by Tim EvansIf I say “economics”, do you hear “numbers”? Thats the case with most  people and actually most professors on the topic as well. I think thats  not just a flawed perspective but plainly false.If economics is the “study of the ways societies organize themselves to  provide for the survival and flourishing of life”, then economics is  just as much about telling stories as it can be about numbers. By the  way, thanks to July Nelson for that great definition.Mostly, I hear that economics has a lot to do with calculating aggregate  numbers such as GDP, unemployment-outlooks, exchange rates or predicting propensities to save. That is all well and fine, but the point is, if I have no story to tell with such a number, the number itself is becoming meaningless.When we set out researching for YourGreeconomy, we read all about unemployment rates in Greece. Soaring numbers, many fleeing the country.Let me ask you this: What do you make of a piece of information that tells you “Youth unemployment is at 57%”?The only thought that came to my mind was: “Gosh, thats a lot of people not finding a job.” That’s not very informative, though. That’s not very  much meaning.  The meaning of something is what it expresses or represents. (Cambridge Dictionary)So, what does a number like 57% youth unemployment express or represent?It represents young people like myself who would rather stay where they  grew up, indulge in their families, foster communities and spread  knowledge. But they can’t. Because they can’t live on their parents  shrinking income forever.That number represents young people like myself who grew up into a  globalized economy, speaking a multitude of languages and being raised  in this thinking of factor-mobility. If I ask around my friends in  Germany most would go work abroad for a while, check it out, see what it is they want to do. If you ask around the young and well educated in  Greece, they say they have to leave the country.And thats a huge difference. And those are stories, not numbers. Stories of how you feel if you have to leave to be able to pay for your families  rent. Stories of how doing something you’ve been educated for, forces  you to look somewhere else. Leaving behind your friends, family,  infrastructure. Having your family scatter all around europe.In this regard, numbers are tools to tell stories. As are models and  formulas. But the numbers can never stand for themselves. Neither can  models and formulas.There is a caveat keeping uns from telling stories in economics, though: It  makes information much less accessible. Telling stories doesn’t give you a imagined “clear picture”. And that’s the problem: If you hear a  number on something, you perceive to have a clear understanding of a  process, while hearing a story on the topic leaves you with this unclear gut feeling.Clear pictures lead to clear responses: Greece is broke? Have it cut  spending. Bloated public sector? Privatize. But as there is never a single cause, there can never be a single response. Stories open up perspectives  maybe not so much on causes, but on what responses would work like.And that’s the great thing about stories. A well told story gives you  mediated, hands-on understanding of something. You’ll have a mediated  experience to be someone else. You’ll be able to feel the way the  narrator feels. You can be empathetic.And that’s what economics needs to be, if we want to use it to build a  better world. Have economics be about empathy and use numbers to  illustrate your story. It would fit so greatly with Judy Nelson’s  definition of the field."
+  },
+  
+  {
+    "title": "Generation Loveparade A Primer",
+    "url": "/posts/lovp/",
+    "categories": "",
+    "tags": "",
+    "date": "2017-01-11 00:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Which way to go when futures are insecure and a crisis blocks your view. Picture by Mike Wilson.I spent roughly two weeks in Greece last year, filming a documentary. The idea was to capture stories of young adults of what they’d been facing  these past couple of years that we came to calling crisis. What resulted from filming is a 40-minute documentary with talking heads on the topic. But the outcome for me is much more  than an answer to the question we’d asked. Its the start of a journey of getting to known people of my age.I think our film answers this question of “what happened” and “how does  it feel” in its own way. The story I am trying to tell here is a  different one, though. It has much more to do with the reactions we  received for showing the film. The discussion I’ve had with audiences  and friends who’d asked questions.The film shows six young people between 22 and 26 years old and in many  ways they reflect on their situation. When we showed the film in Berlin, someone afterwards asked: “What’s the big deal? All of what the people in your film said could have been young people from Berlin-Kreuzberg.” I was first taken aback and figured after all the work that had flown  into this, there was no story we were telling. But thats not what I  think is true.The story this film is telling, lays underneath all those statements that  are made throughout the film. In a way the story the film tells is  exactly what this guy in Berlin said:  “Look at us, we are the same as so many young people in Europe and probably  world-wide. We are insecure about our futures, we are highly educated,  we worry about how to fit in and never want to fit in, we try to find  our ways, and we keep telling ourselves to do something that makes us happy.”A scene from the film: Interviewing with Irini on hill of philopappou.Irini — one of our interview partners actually said just that in the film.  She has a job that pays for her expenses. But that’s not what she’d been looking for. Before the crisis her parents, her teachers and everyone  else kept telling her: “You can be and do whatever you want!” And the  crisis suddenly revealed that to be a lie. The crisis in a nutshell for  these young people was a rupture into a system of believes, emotions and feelings of how the world works and what the future would bring.And it is this theme that interests me. This theme of “a young generation”  that is insecure but highly emotional, that in Greece got a mean slap in the face.This film gave me the opportunity to meet people my age whom I didn’t know  before and then ask them personal questions on what happened. And we  recorded all of those conversations. And I watched them again and again  while cutting. And we as the filming team constructed a narrative from  all of those singular stories. And then we opened up discourse on the  topic to a public.This film gave me the opportunity to speak with and listen about my generation. Its a form of dialogue that I am missing so far."
+  },
+  
+  {
+    "title": "Trykka design stuff, website, booklet",
+    "url": "/posts/trykkasite/",
+    "categories": "gestaltung",
+    "tags": "grav",
+    "date": "2015-09-07 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "I recently redesigned TRyKKA’s website alongside their design on their newly released album. It was my first time to use grav and it was great fun.The album front-page looked like this and I tried to carry this design over to web.The resulting grav page now has this look and feel.There had to be some serious adjustments to the Quark theme. Especially usefull was the bootstrapper plugin that enabeled me to use the awesome Bootstrap framework. I wanted a modern, responsive website. So Bootstrap is obviously the way to go. It especially makes possible that the anchor on the frontpage disappears on mobile making room for everything else and helps with large but responsive videos on the page’s videos section."
+  },
+  
+  {
+    "title": "Logo, Website, Kriwigoe",
+    "url": "/posts/kriwigoe/",
+    "categories": "gestaltung",
+    "tags": "wordpress",
+    "date": "2015-09-07 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "I made logo and website for Kritische Wirtschaftswissenschaften Göttingen. They are a student initiative promoting pluralism in economics, teaching and research at Göttingen University.Logo was made using Illustrator and selected from six prototypes. It tries to capture pluralism in thought through differing perspectives and offer a clean and professional attire.The website utilizes standard wordpress for ease of use of its GUI and blogging features. I heavily adjusted Quema Labs’ Vito theme and employ along others Event Organizer plugin by Stephen Harris for events. WP Clone by WP Academy was especially useful for deploying the page initially."
   }
   
 ]
