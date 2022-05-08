@@ -4,7 +4,7 @@
   <id>https://nullnein.onrender.com/</id>
   <title>mikrophaenomene</title>
   <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-03-13T11:41:07+01:00</updated>
+  <updated>2022-05-08T22:07:17+02:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://nullnein.onrender.com/</uri>
@@ -17,6 +17,47 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Dw Explainer Uk Refugee Update</title>
+    <link href="https://nullnein.onrender.com/posts/dw-explainer-uk-refugee-update/" rel="alternate" type="text/html" title="Dw Explainer Uk Refugee Update" />
+    <published>2022-03-15T00:00:00+01:00</published>
+  
+    <updated>2022-03-15T00:00:00+01:00</updated>
+  
+    <id>https://nullnein.onrender.com/posts/dw-explainer-uk-refugee-update/</id>
+    <content src="https://nullnein.onrender.com/posts/dw-explainer-uk-refugee-update/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Asyl: Welche Regeln und Leistungen gelten für Flüchtlinge aus der
+Ukraine?
+
+2,9 Millionen Menschen sind aus der Ukraine bisher geflohen. Mindestens
+160 000 davon sind bisher nach Deutschland gekommen. Viele Behörden sind
+noch völlig mit der neuen Rechtsnorm überfordert. Ein Überblick über
+Rechte und Leistungen.
+
+Einiges ist ungewiss. Aber eines stellt das Bundesinnenministerium klipp
+und klar f...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -160,44 +201,6 @@ This design challenge had been developed previously in-house and we worked as a 
 
 
       We’re a group of twelve young journalists pressure cooking in an international media organization. There is this examplar thursday afternoon where we present our first radio pieces after four days of learning. Here I list some levels of learning of that week. The list is non-exhaustive and some aspects may only relate to some or one of our group. Each layer describes one aspect of learning we h...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>2022-02-01 Stuff</title>
-    <link href="https://nullnein.onrender.com/posts/stuff/" rel="alternate" type="text/html" title="2022-02-01 Stuff" />
-    <published>2022-02-20T00:00:00+01:00</published>
-  
-    <updated>2022-02-20T00:00:00+01:00</updated>
-  
-    <id>https://nullnein.onrender.com/posts/stuff/</id>
-    <content src="https://nullnein.onrender.com/posts/stuff/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="stuff" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      yaml tags auto-complete
-
-Brett Terpestra has a cli to auto-complete yaml frontmatter but I’m not getting that to work. But Sublime Text can auto-complete text from files within a directory. So I now add tags to jekyll posts before committing to git in Sublime Text where Sublime Text highlights all those files that haven’t been committed yet. Not clean workaround but as a start.
-
-Other option wo...
     </summary>
   
 

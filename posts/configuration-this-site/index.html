@@ -50,7 +50,7 @@
 <meta name="twitter:creator" content="@mathis" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-03-11T14:14:52+01:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Workflow","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://nullnein.onrender.com/posts/configuration-this-site/"},"url":"https://nullnein.onrender.com/posts/configuration-this-site/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-05-04T01:30:14+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Workflow","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://nullnein.onrender.com/posts/configuration-this-site/"},"url":"https://nullnein.onrender.com/posts/configuration-this-site/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -493,6 +493,91 @@
 
 
 
+  
+  
+
+  
+    
+      
+      
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+      
+      
+
+      
+      
+
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+
+      
+    
+      
+      
+        
+      
+      
+        
+      
+      
+        
+
+    
+      
+
+        <!-- Add CDN URL -->
+        
+
+        <!-- Add image path -->
+        
+
+        
+        
+
+      
+
+      <!-- lazy-load images <https://github.com/ApoorvSaxena/lozad.js#usage> -->
+
+      
+
+    
+
+    <!-- Add SVG placehoder to prevent layout reflow -->
+
+    
+
+    <!-- Bypass the HTML-proofer test -->
+    
+
+    
+
+  
+
+  
+
+
 
 <!-- Add header for code snippets -->
 
@@ -567,6 +652,32 @@
       
 
     
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
 
     
 
@@ -574,6 +685,43 @@
 
   
   
+
+  
+    
+    
+
+    
+      
+        
+        
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
+
+    
 
   
 
@@ -655,13 +803,13 @@
 
 
 <em class="timeago"
-    date="2022-03-11 14:14:52 +0100
+    date="2022-05-04 01:30:14 +0200
 "
     
       data-toggle="tooltip"
       data-placement="bottom"
-      title="Fri, Mar 11, 2022,  2:14 PM +0100"
-    >Mar 11</em>
+      title="Wed, May  4, 2022,  1:30 AM +0200"
+    >May  4</em>
 
       </span>
       
@@ -686,8 +834,8 @@
 
 <!-- return element -->
 <span class="readtime" data-toggle="tooltip" data-placement="bottom"
-  title="222 words">
-  <em>1 min</em> read</span>
+  title="360 words">
+  <em>2 min</em> read</span>
 
 
       <!-- page views -->
@@ -733,21 +881,71 @@
       </li>
     </ul>
   </li>
-  <li>Github
+  <li>Deploy: Github
     <ul>
-      <li><code class="language-plaintext highlighter-rouge">cd _site</code></li>
-      <li><code class="language-plaintext highlighter-rouge">git add .</code></li>
-      <li><code class="language-plaintext highlighter-rouge">git commit -m "message"</code></li>
-      <li><code class="language-plaintext highlighter-rouge">git push -u origin main</code></li>
-    </ul>
-  </li>
-  <li>Render.com should then auto-deploy
-    <ul>
+      <li>commands
+        <ul>
+          <li><code class="language-plaintext highlighter-rouge">cd _site</code></li>
+          <li><code class="language-plaintext highlighter-rouge">git add .</code></li>
+          <li><code class="language-plaintext highlighter-rouge">git commit -m "message"</code></li>
+          <li><code class="language-plaintext highlighter-rouge">git push -u origin main</code></li>
+        </ul>
+      </li>
+      <li>Render.com should then auto-deploy</li>
       <li>You can manually deploy</li>
     </ul>
   </li>
   <li>be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the site</li>
 </ul>
+
+<h2 id="theme">Theme<a href="#theme" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+
+<p>This site uses <a href="https://github.com/cotes2020/jekyll-theme-chirpy/">Chirpy</a> Theme by <a href="https://twitter.com/cotes2020">cotes2020</a>. Some edits I made:</p>
+
+<h3 id="added-open-embed-support">Added Open-Embed support<a href="#added-open-embed-support" class="anchor"><i class="fas fa-hashtag"></i></a></h3></h3>
+
+<ul>
+  <li>To easily embed e.g. Youtube videos into posts, <a href="https://jekyllcodex.org/without-plugin/open-embed/">Open-Embed</a>.</li>
+  <li>Find local gem file <code class="language-plaintext highlighter-rouge"># in the root directory of your site
+$ bundle info --path jekyll-theme-chirpy</code></li>
+  <li>In my case: <code class="language-plaintext highlighter-rouge">/Users/mathis/.gem/ruby/3.1.0/gems/jekyll-theme-chirpy-5.0.2</code></li>
+  <li>Copy <code class="language-plaintext highlighter-rouge">_layouts/default.html</code></li>
+  <li>To your site <code class="language-plaintext highlighter-rouge">nullnein on github</code></li>
+  <li>In <code class="language-plaintext highlighter-rouge">_layouts/default.html</code></li>
+  <li>Edit before the <code class="language-plaintext highlighter-rouge">&lt;/body&gt;</code> include the <code class="language-plaintext highlighter-rouge">open-embed.html</code></li>
+</ul>
+
+<p>When writing, just paste the URL directly in the Markdown file of your post, and the plugin will automatically generate the corresponding HTML element. For example: In file <code class="language-plaintext highlighter-rouge">_posts/2022-02-07-my-awesome-post.md</code>:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="code-header">
+        <span label-text="Plaintext"><i class="fas fa-code small"></i></span>
+      <button aria-label="copy" title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+</pre></td><td class="rouge-code"><pre> bla bla bla bla 
+
+ https://www.youtube.com/watch?v=qgqZnHwG7Cc
+
+ bla bla bla bla bla
+
+ ...
+</pre></td></tr></tbody></table></code></div></div>
+
+<h3 id="editing-the-sidebar">Editing the sidebar<a href="#editing-the-sidebar" class="anchor"><i class="fas fa-hashtag"></i></a></h3></h3>
+
+<p>I took out the sections Recently Updated and Trending Tags from the sidebar.</p>
+
+<p><img data-src="assets/Bildschirmfoto%202022-05-04%20um%2000.39.34.png" alt="Bildschirmfoto 2022-05-04 um 00.39.34" data-proofer-ignore></p>
+
+<p>This is what I did:</p>
+
+<ol>
+  <li></li>
+</ol>
 
 <h2 id="setup">Setup<a href="#setup" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
@@ -776,6 +974,12 @@
   <li>Typora imputs into assets folder</li>
   <li>assets has subfolders by category</li>
   <li>attibute image path as <code class="language-plaintext highlighter-rouge">/assets/image-path.extension</code></li>
+</ul>
+
+<h2 id="analytics">analytics<a href="#analytics" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+
+<ul>
+  <li><a href="">goatcounter.com</a> // or this: https://counter.dev/</li>
 </ul>
 
 <h2 id="figure-out">Figure out<a href="#figure-out" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
@@ -918,6 +1122,11 @@
         
         
         
+      <li><a href="/posts/dzbrief/">Regelmäßige Analyse makroökonomischer Zusammenhänge in Deutschland und Europa</a></li>
+      
+        
+        
+        
       <li><a href="/posts/kriwigoe/">Logo, Website, Kriwigoe</a></li>
       
         
@@ -929,11 +1138,6 @@
         
         
       <li><a href="/posts/lovp/">Generation Loveparade A Primer</a></li>
-      
-        
-        
-        
-      <li><a href="/posts/ecnumbs/">Econonmics ≠ Numbers</a></li>
       
     </ul>
   </div> 
