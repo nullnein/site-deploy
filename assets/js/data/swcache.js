@@ -25,8 +25,6 @@ const resource = [
   
     '/about/',
   
-    '/mathis/',
-  
 
   /* --- Favicons --- */
   
