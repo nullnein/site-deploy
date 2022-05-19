@@ -1,17 +1,17 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://nullnein.onrender.com/</id>
-  <title>mikrophaenomene</title>
-  <subtitle>Collecting some work, some thoughts, and jumping to the beat.</subtitle>
-  <updated>2022-05-08T23:53:39+02:00</updated>
+  <id>https://mikrophaenomene.onrender.com/</id>
+  <title>mathis</title>
+  <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
+  <updated>2022-05-19T10:04:39+02:00</updated>
   <author>
     <name>mathis</name>
-    <uri>https://nullnein.onrender.com/</uri>
+    <uri>https://mikrophaenomene.onrender.com/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://nullnein.onrender.com/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://mikrophaenomene.onrender.com/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://nullnein.onrender.com/"/>
+    href="https://mikrophaenomene.onrender.com/"/>
   <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
   <rights> © 2022 mathis </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
@@ -20,14 +20,54 @@
 
   
   <entry>
+    <title>5 levels of difficulty</title>
+    <link href="https://mikrophaenomene.onrender.com/posts/explainers/" rel="alternate" type="text/html" title="5 levels of difficulty" />
+    <published>2022-05-10T00:00:00+02:00</published>
+  
+    <updated>2022-05-10T00:00:00+02:00</updated>
+  
+    <id>https://mikrophaenomene.onrender.com/posts/explainers/</id>
+    <content src="https://mikrophaenomene.onrender.com/posts/explainers/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      The internet is full of explainers exploring topics ranging from US  foreign policy agenda on Taiwan, the New York subway system, to why Helms Deep is the best cinematographic battle ever filmed.
+
+So, what are some of the nuts and bolts on making such an explainer?
+
+We focussed on video-formats. However, many of these guidelines may be applicable to other journalistic formats as well.
+
+Content ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Ramstein - US-Militärbasis in Deutschland</title>
-    <link href="https://nullnein.onrender.com/posts/ramstein/" rel="alternate" type="text/html" title="Ramstein - US-Militärbasis in Deutschland" />
+    <link href="https://mikrophaenomene.onrender.com/posts/ramstein/" rel="alternate" type="text/html" title="Ramstein - US-Militärbasis in Deutschland" />
     <published>2022-04-28T00:00:00+02:00</published>
   
     <updated>2022-04-28T00:00:00+02:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/ramstein/</id>
-    <content src="https://nullnein.onrender.com/posts/ramstein/" />
+    <id>https://mikrophaenomene.onrender.com/posts/ramstein/</id>
+    <content src="https://mikrophaenomene.onrender.com/posts/ramstein/" />
     <author>
       <name>mathis</name>
     </author>
@@ -67,13 +107,13 @@ Für manche sind es die USA im Taschenformat, für ande...
   
   <entry>
     <title>Ukraine war - How Germany pays for refugees</title>
-    <link href="https://nullnein.onrender.com/posts/federal-financing-refugees/" rel="alternate" type="text/html" title="Ukraine war - How Germany pays for refugees" />
+    <link href="https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/" rel="alternate" type="text/html" title="Ukraine war - How Germany pays for refugees" />
     <published>2022-04-08T00:00:00+02:00</published>
   
     <updated>2022-04-08T00:00:00+02:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/federal-financing-refugees/</id>
-    <content src="https://nullnein.onrender.com/posts/federal-financing-refugees/" />
+    <id>https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/</id>
+    <content src="https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/" />
     <author>
       <name>mathis</name>
     </author>
@@ -112,13 +152,13 @@ Sankt Augustin is maxed out. That’s how the mayor of the small city near Bonn,
   
   <entry>
     <title>Ukraine - Schafft Deutschland die Integration von Geflüchteten?</title>
-    <link href="https://nullnein.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" rel="alternate" type="text/html" title="Ukraine - Schafft Deutschland die Integration von Geflüchteten?" />
+    <link href="https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" rel="alternate" type="text/html" title="Ukraine - Schafft Deutschland die Integration von Geflüchteten?" />
     <published>2022-03-31T00:00:00+02:00</published>
   
     <updated>2022-03-31T00:00:00+02:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/</id>
-    <content src="https://nullnein.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" />
+    <id>https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/</id>
+    <content src="https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" />
     <author>
       <name>mathis</name>
     </author>
@@ -158,13 +198,13 @@ Ihor Bielozorov will arbeiten. Der ukrainische Zahnarzt war im Urlaub, als er vo
   
   <entry>
     <title>Geflüchtete - Bürokratie am Rande des Machbaren</title>
-    <link href="https://nullnein.onrender.com/posts/buerokratie-rande-des-limits/" rel="alternate" type="text/html" title="Geflüchtete - Bürokratie am Rande des Machbaren" />
+    <link href="https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/" rel="alternate" type="text/html" title="Geflüchtete - Bürokratie am Rande des Machbaren" />
     <published>2022-03-24T00:00:00+01:00</published>
   
     <updated>2022-03-24T00:00:00+01:00</updated>
   
-    <id>https://nullnein.onrender.com/posts/buerokratie-rande-des-limits/</id>
-    <content src="https://nullnein.onrender.com/posts/buerokratie-rande-des-limits/" />
+    <id>https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/</id>
+    <content src="https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/" />
     <author>
       <name>mathis</name>
     </author>
@@ -196,53 +236,6 @@ Reportage
 
 
 Die Entscheidung zur Flucht fällt in einer Wohnung im vierten Stock am Rande von Kiew. Es ist der Vorabend des Krieges. Das Pärchen saß bereits auf gepackten K...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Asyl - Welche Regeln gelten für Flüchtlinge aus der Ukraine?</title>
-    <link href="https://nullnein.onrender.com/posts/dwexplainertpm/" rel="alternate" type="text/html" title="Asyl - Welche Regeln gelten für Flüchtlinge aus der Ukraine?" />
-    <published>2022-03-04T00:00:00+01:00</published>
-  
-    <updated>2022-05-08T23:42:45+02:00</updated>
-  
-    <id>https://nullnein.onrender.com/posts/dwexplainertpm/</id>
-    <content src="https://nullnein.onrender.com/posts/dwexplainertpm/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Hunderttausende Menschen fliehen aus der Ukraine. Wie geht es für sie in Deutschland und in der Europäischen Union weiter? Antworten auf die wichtigsten Fragen.
-
-» DW: Original Artikel (gemeinsam mit Oliver Pieper)
-
-Explainer
-
-  Zwei Artikel, Updates im selben Artikel
-  Auslieferung: Deutsch
-  Adaptionen: Arabisch, Englisch
-
-
-
-
-Einiges ist ungewiss. Aber eines stellt das Bundesinnenministerium ...
     </summary>
   
 

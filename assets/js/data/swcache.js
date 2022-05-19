@@ -45,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'nullnein.onrender.com',
+  'mikrophaenomene.onrender.com',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',
