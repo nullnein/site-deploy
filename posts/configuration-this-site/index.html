@@ -50,7 +50,7 @@
 <meta name="twitter:creator" content="@mathis" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-05-08T23:42:45+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Workflow","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"},"url":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-05-20T11:00:12+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Workflow","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"},"url":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -720,6 +720,19 @@
       
 
     
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
 
     
 
@@ -803,13 +816,13 @@
 
 
 <em class="timeago"
-    date="2022-05-08 23:42:45 +0200
+    date="2022-05-20 11:00:12 +0200
 "
     
       data-toggle="tooltip"
       data-placement="bottom"
-      title="Sun, May  8, 2022, 11:42 PM +0200"
-    >May  8</em>
+      title="Fri, May 20, 2022, 11:00 AM +0200"
+    >May 20</em>
 
       </span>
       
@@ -834,7 +847,7 @@
 
 <!-- return element -->
 <span class="readtime" data-toggle="tooltip" data-placement="bottom"
-  title="360 words">
+  title="405 words">
   <em>2 min</em> read</span>
 
 
@@ -947,6 +960,18 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
   <li></li>
 </ol>
 
+<h3 id="added-goatcounter-analytics">Added GoatCounter Analytics<a href="#added-goatcounter-analytics" class="anchor"><i class="fas fa-hashtag"></i></a></h3></h3>
+
+<p>In <code class="language-plaintext highlighter-rouge">_layouts/default.html</code> before <code class="language-plaintext highlighter-rouge">&lt;/body&gt;</code> added:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="code-header">
+        <span label-text="Plaintext"><i class="fas fa-code small"></i></span>
+      <button aria-label="copy" title-succeed="Copied!"><i class="far fa-clipboard"></i></button></div><div class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+</pre></td><td class="rouge-code"><pre>    &lt;script data-goatcounter="https://mikrophaenomene.goatcounter.com/count" async src="//gc.zgo.at/count.js"&gt;&lt;/script&gt;
+</pre></td></tr></tbody></table></code></div></div>
+
+<p>However: uBlock origin blocks GoatCounter which is fine for me. Also localhost serves of jekyll call at GoatCounter so test environment may mess up the count but since uBlock blocks it it should be fine.</p>
+
 <h2 id="setup">Setup<a href="#setup" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
 <ul>
@@ -976,11 +1001,9 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
   <li>attibute image path as <code class="language-plaintext highlighter-rouge">/assets/image-path.extension</code></li>
 </ul>
 
-<h2 id="analytics">analytics<a href="#analytics" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+<h2 id="add-tag-archive">add tag-archive<a href="#add-tag-archive" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
-<ul>
-  <li><a href="">goatcounter.com</a> // or this: https://counter.dev/</li>
-</ul>
+<p>https://brettterpstra.com/projects/jtag/</p>
 
 <h2 id="figure-out">Figure out<a href="#figure-out" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
@@ -1117,17 +1140,17 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
         
         
         
+      <li><a href="/posts/configuration-this-site/">Configuration this site</a></li>
+      
+        
+        
+        
       <li><a href="/posts/Feedbackcollection/">Feedback Collection</a></li>
       
         
         
         
       <li><a href="/posts/dwexplainertpm/">Asyl - Welche Regeln gelten für Flüchtlinge aus der Ukraine?</a></li>
-      
-        
-        
-        
-      <li><a href="/posts/configuration-this-site/">Configuration this site</a></li>
       
         
         
