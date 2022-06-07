@@ -33,14 +33,14 @@
   
 
   <!-- Begin Jekyll SEO tag v2.8.0 -->
-<meta name="generator" content="Jekyll v4.2.1" />
+<meta name="generator" content="Jekyll v4.2.2" />
 <meta property="og:title" content="Configuration this site" />
 <meta name="author" content="mathis" />
 <meta property="og:locale" content="en" />
-<meta name="description" content="Workflow" />
-<meta property="og:description" content="Workflow" />
-<link rel="canonical" href="https://mikrophaenomene.onrender.com/posts/configuration-this-site/" />
-<meta property="og:url" content="https://mikrophaenomene.onrender.com/posts/configuration-this-site/" />
+<meta name="description" content="Burning" />
+<meta property="og:description" content="Burning" />
+<link rel="canonical" href="https://mathis.lol/posts/configuration-this-site/" />
+<meta property="og:url" content="https://mathis.lol/posts/configuration-this-site/" />
 <meta property="og:site_name" content="mathis" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2022-02-05T00:00:00+01:00" />
@@ -50,7 +50,7 @@
 <meta name="twitter:creator" content="@mathis" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-05-20T11:00:12+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Workflow","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"},"url":"https://mikrophaenomene.onrender.com/posts/configuration-this-site/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"mathis"},"dateModified":"2022-05-20T17:47:54+02:00","datePublished":"2022-02-05T00:00:00+01:00","description":"Burning","headline":"Configuration this site","mainEntityOfPage":{"@type":"WebPage","@id":"https://mathis.lol/posts/configuration-this-site/"},"url":"https://mathis.lol/posts/configuration-this-site/"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -269,7 +269,7 @@
     <div class="site-title mt-3">
       <a href="/">mathis</a>
     </div>
-    <div class="site-subtitle font-italic">storage of the small stuff</div>
+    <div class="site-subtitle font-italic">playground and stuff</div>
 
   </div><!-- .profile-wrapper -->
 
@@ -678,6 +678,19 @@
       
 
     
+      
+
+      
+      
+
+      
+      
+      
+      
+
+      
+
+    
 
     
 
@@ -816,12 +829,12 @@
 
 
 <em class="timeago"
-    date="2022-05-20 11:00:12 +0200
+    date="2022-05-20 17:47:54 +0200
 "
     
       data-toggle="tooltip"
       data-placement="bottom"
-      title="Fri, May 20, 2022, 11:00 AM +0200"
+      title="Fri, May 20, 2022,  5:47 PM +0200"
     >May 20</em>
 
       </span>
@@ -847,7 +860,7 @@
 
 <!-- return element -->
 <span class="readtime" data-toggle="tooltip" data-placement="bottom"
-  title="405 words">
+  title="425 words">
   <em>2 min</em> read</span>
 
 
@@ -860,7 +873,13 @@
 </div> <!-- .post-meta -->
 
 <div class="post-content">
-  <h2 id="workflow">Workflow<a href="#workflow" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+  <h2 id="burning">Burning<a href="#burning" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
+
+<ul>
+  <li>site css is fucked</li>
+</ul>
+
+<h2 id="workflow">Workflow<a href="#workflow" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
 <ul>
   <li>Open Typora
@@ -888,7 +907,7 @@
           <li><code class="language-plaintext highlighter-rouge">cd _site</code></li>
           <li><code class="language-plaintext highlighter-rouge">git add .</code></li>
           <li><code class="language-plaintext highlighter-rouge">git commit -m "message"</code></li>
-          <li><code class="language-plaintext highlighter-rouge">git push -u origin mainª</code></li>
+          <li><code class="language-plaintext highlighter-rouge">git push -u origin main</code></li>
           <li>then render deploys repository “site-deploy”</li>
         </ul>
       </li>
@@ -991,6 +1010,7 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     </ul>
   </li>
   <li>How github/jekyll workflow works, <a href="https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/">very basic tutorial</a></li>
+  <li>How to <a href="https://mademistakes.com/mastering-jekyll/how-to-link/">link</a></li>
 </ul>
 
 <h2 id="image-handling">image handling<a href="#image-handling" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
@@ -1004,6 +1024,11 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
 <h2 id="add-tag-archive">add tag-archive<a href="#add-tag-archive" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
 <p>https://brettterpstra.com/projects/jtag/</p>
+
+<ul>
+  <li>change <code class="language-plaintext highlighter-rouge">nil</code> to <code class="language-plaintext highlighter-rouge">none</code> in <code class="language-plaintext highlighter-rouge">tags_json.html</code></li>
+  <li>change <code class="language-plaintext highlighter-rouge">config.yml</code> to point to <code class="language-plaintext highlighter-rouge">https://raw.githubusercontent.com/nullnein/site-deploy/main/data/tags.json</code></li>
+</ul>
 
 <h2 id="figure-out">Figure out<a href="#figure-out" class="anchor"><i class="fas fa-hashtag"></i></a></h2></h2>
 
@@ -1073,19 +1098,19 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
 
     
       
-        <a href="https://twitter.com/intent/tweet?text=Configuration this site - mathis&url=https://mikrophaenomene.onrender.com/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
+        <a href="https://twitter.com/intent/tweet?text=Configuration this site - mathis&url=https://mathis.lol/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
           title="Twitter" target="_blank" rel="noopener" aria-label="Twitter">
           <i class="fa-fw fab fa-twitter"></i>
         </a>
     
       
-        <a href="https://www.facebook.com/sharer/sharer.php?title=Configuration this site - mathis&u=https://mikrophaenomene.onrender.com/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
+        <a href="https://www.facebook.com/sharer/sharer.php?title=Configuration this site - mathis&u=https://mathis.lol/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
           title="Facebook" target="_blank" rel="noopener" aria-label="Facebook">
           <i class="fa-fw fab fa-facebook-square"></i>
         </a>
     
       
-        <a href="https://telegram.me/share?text=Configuration this site - mathis&url=https://mikrophaenomene.onrender.com/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
+        <a href="https://telegram.me/share?text=Configuration this site - mathis&url=https://mathis.lol/posts/configuration-this-site/" data-toggle="tooltip" data-placement="top"
           title="Telegram" target="_blank" rel="noopener" aria-label="Telegram">
           <i class="fa-fw fab fa-telegram"></i>
         </a>
@@ -1401,11 +1426,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
     
-  
-    
-    
-    
-    
       
         
         
@@ -1569,6 +1589,129 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
     
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
   
     
     
@@ -1809,15 +1952,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
       
     
-  
-    
-    
-    
-    
-      
-        
-        
-
   
     
     
@@ -1853,6 +1987,9 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
       <a class="post-tag" href="/tags/eu/">EU</a>
     
       
+      <a class="post-tag" href="/tags/learningjournalism/">learningJournalism</a>
+    
+      
       <a class="post-tag" href="/tags/finance/">finance</a>
     
       
@@ -1860,9 +1997,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
       
       <a class="post-tag" href="/tags/jekyll/">jekyll</a>
-    
-      
-      <a class="post-tag" href="/tags/ai/">AI</a>
     
 
     </div>
@@ -2212,11 +2346,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
     
-  
-    
-    
-    
-    
       
         
         
@@ -2380,6 +2509,129 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
     
     
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+      
+        
+        
+
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
+  
+    
+    
+    
+    
   
     
     
@@ -2620,15 +2872,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
       
     
-  
-    
-    
-    
-    
-      
-        
-        
-
   
     
     
@@ -2664,6 +2907,9 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
       <a class="post-tag" href="/tags/eu/">EU</a>
     
       
+      <a class="post-tag" href="/tags/learningjournalism/">learningJournalism</a>
+    
+      
       <a class="post-tag" href="/tags/finance/">finance</a>
     
       
@@ -2671,9 +2917,6 @@ $ bundle info --path jekyll-theme-chirpy</code></li>
     
       
       <a class="post-tag" href="/tags/jekyll/">jekyll</a>
-    
-      
-      <a class="post-tag" href="/tags/ai/">AI</a>
     
 
     </div>

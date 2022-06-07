@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /norobots/
 
-Sitemap: https://mikrophaenomene.onrender.com/sitemap.xml
+Sitemap: https://mathis.lol/sitemap.xml

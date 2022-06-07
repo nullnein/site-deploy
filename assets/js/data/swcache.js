@@ -45,7 +45,7 @@ const resource = [
 const allowedDomains = [
   
 
-  'mikrophaenomene.onrender.com',
+  'mathis.lol',
 
   'fonts.gstatic.com',
   'fonts.googleapis.com',

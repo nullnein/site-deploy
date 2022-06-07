@@ -1,18 +1,18 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>https://mikrophaenomene.onrender.com/</id>
+  <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2022-05-20T17:47:31+02:00</updated>
+  <updated>2022-06-07T13:02:00+02:00</updated>
   <author>
     <name>mathis</name>
-    <uri>https://mikrophaenomene.onrender.com/</uri>
+    <uri>https://mathis.lol/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="https://mikrophaenomene.onrender.com/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="https://mathis.lol/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="https://mikrophaenomene.onrender.com/"/>
-  <generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator>
+    href="https://mathis.lol/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
   <rights> © 2022 mathis </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
@@ -20,14 +20,86 @@
 
   
   <entry>
+    <title>Solutions as an angle</title>
+    <link href="https://mathis.lol/posts/solutions/" rel="alternate" type="text/html" title="Solutions as an angle" />
+    <published>2022-06-07T00:00:00+02:00</published>
+  
+    <updated>2022-06-07T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/solutions/</id>
+    <content src="https://mathis.lol/posts/solutions/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learing" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Constructive Journalism. Solutions, Nuance, Dialogue – an approach to rekindling the debate on what good journalism is. This time with a focus on one small family member: Solutions Journalism.
+
+Main takeaway: Use the search for solutions to the fucked-up world as an angle to develop stories. No matter where you are, what you have to do. If you need to find an angle just go out in search for som...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Raise Suspense</title>
+    <link href="https://mathis.lol/posts/podcast/" rel="alternate" type="text/html" title="Raise Suspense" />
+    <published>2022-05-27T00:00:00+02:00</published>
+  
+    <updated>2022-05-27T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/podcast/</id>
+    <content src="https://mathis.lol/posts/podcast/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learing" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      One week of podcast and social training. A podcast on gender stereotypes in fairy tales, one on female political crime, and one on biases in global tech. Some TikTok socials that took a planet money approach. These approaches go into the direction of acting, political-journalistic theater (a thing to explore in itself probably).
+
+Main takeaway: Either do an interview podcast. If you’re super ni...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>5 levels of difficulty</title>
-    <link href="https://mikrophaenomene.onrender.com/posts/explainers/" rel="alternate" type="text/html" title="5 levels of difficulty" />
+    <link href="https://mathis.lol/posts/explainers/" rel="alternate" type="text/html" title="5 levels of difficulty" />
     <published>2022-05-10T00:00:00+02:00</published>
   
     <updated>2022-05-10T00:00:00+02:00</updated>
   
-    <id>https://mikrophaenomene.onrender.com/posts/explainers/</id>
-    <content src="https://mikrophaenomene.onrender.com/posts/explainers/" />
+    <id>https://mathis.lol/posts/explainers/</id>
+    <content src="https://mathis.lol/posts/explainers/" />
     <author>
       <name>mathis</name>
     </author>
@@ -60,14 +132,65 @@ Content ...
 
   
   <entry>
+    <title>DDJ goes Social Media</title>
+    <link href="https://mathis.lol/posts/datajourno/" rel="alternate" type="text/html" title="DDJ goes Social Media" />
+    <published>2022-05-10T00:00:00+02:00</published>
+  
+    <updated>2022-05-10T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/datajourno/</id>
+    <content src="https://mathis.lol/posts/datajourno/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      A short list: Bringing data-journalism to social media
+
+
+  Teaser Chart
+    
+      static or gif
+      simplified chart (take out the complex stuff)
+    
+  
+  Chart-driven explainer
+    
+      Twitter-Thread / Image Galleries / IG Stories
+      One or more charts with explanation
+      Watch out for good SLAT at the start
+      Throw in other visuals, links
+    
+  
+  Chart explainer stories (In...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Ramstein - US-Militärbasis in Deutschland</title>
-    <link href="https://mikrophaenomene.onrender.com/posts/ramstein/" rel="alternate" type="text/html" title="Ramstein - US-Militärbasis in Deutschland" />
+    <link href="https://mathis.lol/posts/ramstein/" rel="alternate" type="text/html" title="Ramstein - US-Militärbasis in Deutschland" />
     <published>2022-04-28T00:00:00+02:00</published>
   
     <updated>2022-04-28T00:00:00+02:00</updated>
   
-    <id>https://mikrophaenomene.onrender.com/posts/ramstein/</id>
-    <content src="https://mikrophaenomene.onrender.com/posts/ramstein/" />
+    <id>https://mathis.lol/posts/ramstein/</id>
+    <content src="https://mathis.lol/posts/ramstein/" />
     <author>
       <name>mathis</name>
     </author>
@@ -99,143 +222,6 @@ Aktuelles Stichwort
 
 
 Für manche sind es die USA im Taschenformat, für ande...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Ukraine war - How Germany pays for refugees</title>
-    <link href="https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/" rel="alternate" type="text/html" title="Ukraine war - How Germany pays for refugees" />
-    <published>2022-04-08T00:00:00+02:00</published>
-  
-    <updated>2022-04-08T00:00:00+02:00</updated>
-  
-    <id>https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/</id>
-    <content src="https://mikrophaenomene.onrender.com/posts/federal-financing-refugees/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      German leaders recently agreed on a €2 billion package helping states accommodate and integrate Ukrainian refugees fleeing Russia’s war. But money is not the only problem.
-
-» DW: Original Artikel
-
-Hintergrund
-
-  Auslieferung: Deutsch, Englisch
-
-
-
-
-Sankt Augustin is maxed out. That’s how the mayor of the small city near Bonn, Max Leitterstorf, puts it.  It has taken in 343 people from Ukraine si...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Ukraine - Schafft Deutschland die Integration von Geflüchteten?</title>
-    <link href="https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" rel="alternate" type="text/html" title="Ukraine - Schafft Deutschland die Integration von Geflüchteten?" />
-    <published>2022-03-31T00:00:00+02:00</published>
-  
-    <updated>2022-03-31T00:00:00+02:00</updated>
-  
-    <id>https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/</id>
-    <content src="https://mikrophaenomene.onrender.com/posts/arbeitsmarkt-gefl%C3%BCchtete/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Deutschland erlebt derzeit die größte Flüchtlingsbewegung seit 2015. Experten warnen: Vor allem bei Bildung und Arbeitsmarktintegration könnte es Probleme geben.
-
-» DW: Original Artikel
-
-Hintergrund
-
-  Auslieferung: Deutsch
-  Adaptionen: Ukrainisch, Mazedonisch, Russisch, Spanisch, Kroatisch, Serbisch, Bosnisch
-
-
-
-
-Ihor Bielozorov will arbeiten. Der ukrainische Zahnarzt war im Urlaub, als er vo...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Geflüchtete - Bürokratie am Rande des Machbaren</title>
-    <link href="https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/" rel="alternate" type="text/html" title="Geflüchtete - Bürokratie am Rande des Machbaren" />
-    <published>2022-03-24T00:00:00+01:00</published>
-  
-    <updated>2022-03-24T00:00:00+01:00</updated>
-  
-    <id>https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/</id>
-    <content src="https://mikrophaenomene.onrender.com/posts/buerokratie-rande-des-limits/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Der Krieg in der Ukraine treibt Millionen in die Flucht. In Deutschland ächzen Helfer und Ämter. Wo bleibt die Politik?
-
-» DW: Original Artikel
-
-Reportage
-
-  Auslieferung: Deutsch
-  Adaptionen: Arabisch, Englisch, Russisch, Kroatisch
-
-
-
-
-Die Entscheidung zur Flucht fällt in einer Wohnung im vierten Stock am Rande von Kiew. Es ist der Vorabend des Krieges. Das Pärchen saß bereits auf gepackten K...
     </summary>
   
 
