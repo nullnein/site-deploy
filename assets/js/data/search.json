@@ -1,6 +1,66 @@
 [
   
   {
+    "title": "Montratec - High-Tech aus dem Schwarzwald",
+    "url": "/posts/montratec/",
+    "categories": "arbeitsproben",
+    "tags": "business, DW, Mittelstand, Private Equity",
+    "date": "2022-07-10 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "Corona hat Spuren in der deutschen Industrie hinterlassen. Anders beim  Unternehmen Montratec im Schwarzwald: Das kam gut durch die Krise - mit  Hilfe von Investoren und einem Produkt, das wirklich alle brauchen.» DW: Original Artikel» DW: Original AudioHintergrund  Auslieferung: Deutsch  Reporting Text and Audio from Niedereschach"
+  },
+  
+  {
+    "title": "Russia&#39;s default explained - Will investors take a hit?",
+    "url": "/posts/russia-default/",
+    "categories": "arbeitsproben",
+    "tags": "debt, business, DW, Russia, default",
+    "date": "2022-06-29 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "By most accounts, Russia has defaulted on its sovereign debt because it  was unable to make a payment to its creditors. But reality is trickier than that, and shows Moscow has been strategic in bracing for the fallout.» DW: Original ArtikelHintergrund  Auslieferung: Englisch  Adaptionen: Russisch, Spanisch, Brasilianisch  Explainer with original reporting  Infographic by DW Infographic, my research"
+  },
+  
+  {
+    "title": "Debt crisis looms for developing countries amid &#39;perfect storm&#39;",
+    "url": "/posts/debt-crisis-global-south/",
+    "categories": "arbeitsproben",
+    "tags": "debt, business, DW, Global South",
+    "date": "2022-06-27 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "As rich countries switch on their firefighting mode to tame soaring  inflation, highly indebted developing countries are feeling the heat.  Sri Lanka has already defaulted on its debt, many others are on the  brink.» DW: Original ArtikelHintergrund  Auslieferung: Englisch  Small Twitter success"
+  },
+  
+  {
+    "title": "Crypto investors brace for painful period as market slumps",
+    "url": "/posts/crypto-crashes/",
+    "categories": "arbeitsproben",
+    "tags": "crypto, business, DW",
+    "date": "2022-06-20 00:00:00 +0200",
+    
+
+
+
+
+
+    "snippet": "After crashing below the crucial $20,000 level, bitcoin remains on the  edge with an uncertain outlook. But why are the cryptocurrency and its  peers crashing?» DW: Original ArtikelHintergrund  Auslieferung: Englisch  Adaptionen: Spanisch"
+  },
+  
+  {
     "title": "Solutions as an angle",
     "url": "/posts/solutions/",
     "categories": "learing",
@@ -282,7 +342,7 @@
 
 
 
-    "snippet": "Burning  site css is fuckedWorkflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are lists        Open Terminal          cd_blog      this is the deploy I should aim at                  bundle exec jekyll build -d ../public-site                     this is the deploy I’m using                  bundle exec jekyll build          git add .          git commit -m &quot;message&quot;          git push -u origin main          cd _site          git add .          git commit -m &quot;message&quot;          git push -u origin main          then render deploys repository “site-deploy”                      Deploy: Github          commands                  cd _site          git add .          git commit -m &quot;message&quot;          git push -u origin main                    Render.com should then auto-deploy      You can manually deploy        be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the siteThemeThis site uses Chirpy Theme by cotes2020. Some edits I made:Added Open-Embed support  To easily embed e.g. Youtube videos into posts, Open-Embed.  Find local gem file # in the root directory of your site$ bundle info --path jekyll-theme-chirpy  In my case: /Users/mathis/.gem/ruby/3.1.0/gems/jekyll-theme-chirpy-5.0.2  Copy _layouts/default.html  To your site nullnein on github  In _layouts/default.html  Edit before the &amp;lt;/body&amp;gt; include the open-embed.htmlWhen writing, just paste the URL directly in the Markdown file of your post, and the plugin will automatically generate the corresponding HTML element. For example: In file _posts/2022-02-07-my-awesome-post.md: bla bla bla bla  https://www.youtube.com/watch?v=qgqZnHwG7Cc bla bla bla bla bla ...Editing the sidebarI took out the sections Recently Updated and Trending Tags from the sidebar.This is what I did:  Added GoatCounter AnalyticsIn _layouts/default.html before &amp;lt;/body&amp;gt; added:    &amp;lt;script data-goatcounter=&quot;https://mikrophaenomene.goatcounter.com/count&quot; async src=&quot;//gc.zgo.at/count.js&quot;&amp;gt;&amp;lt;/script&amp;gt;However: uBlock origin blocks GoatCounter which is fine for me. Also localhost serves of jekyll call at GoatCounter so test environment may mess up the count but since uBlock blocks it it should be fine.Setup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial  How to linkimage handling  Typora imputs into assets folder  assets has subfolders by category  attibute image path as /assets/image-path.extensionadd tag-archivehttps://brettterpstra.com/projects/jtag/  change nil to none in tags_json.html  change config.yml to point to https://raw.githubusercontent.com/nullnein/site-deploy/main/data/tags.jsonFigure out  how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  mathjax arrows"
+    "snippet": "Burning  site css is fuckedWorkflow  Open Typora          New Doc: :new      Write      Add title, tags, categories in frontmatter      tags are lists        Open Terminal          cd_blog      this is the deploy I should aim at                  bundle exec jekyll build -d ../public-site                     this is the deploy I’m using                  bundle exec jekyll build          git add .          git commit -m &quot;message&quot;          git push -u origin main          cd _site          git add .          git commit -m &quot;message&quot;          git push -u origin main          then render deploys repository “site-deploy”                      Deploy: Github          commands                  cd _site          git add .          git commit -m &quot;message&quot;          git push -u origin main                    Render.com should then auto-deploy      You can manually deploy        be aware: there is a repository of the whole page, on github as a private repository and then there is a repository in the _site from which render takes the siteThemeThis site uses Chirpy Theme by cotes2020. Some edits I made:Added Open-Embed support  To easily embed e.g. Youtube videos into posts, Open-Embed.  Find local gem file # in the root directory of your site$ bundle info --path jekyll-theme-chirpy  In my case: /Users/mathis/.gem/ruby/3.1.0/gems/jekyll-theme-chirpy-5.0.2  Copy _layouts/default.html  To your site nullnein on github  In _layouts/default.html  Edit before the &amp;lt;/body&amp;gt; include the open-embed.htmlWhen writing, just paste the URL directly in the Markdown file of your post, and the plugin will automatically generate the corresponding HTML element. For example: In file _posts/2022-02-07-my-awesome-post.md: bla bla bla bla  https://www.youtube.com/watch?v=qgqZnHwG7Cc bla bla bla bla bla ...Editing the sidebarI took out the sections Recently Updated and Trending Tags from the sidebar.This is what I did:  Added GoatCounter AnalyticsIn _layouts/default.html before &amp;lt;/body&amp;gt; added:    &amp;lt;script data-goatcounter=&quot;https://mikrophaenomene.goatcounter.com/count&quot; async src=&quot;//gc.zgo.at/count.js&quot;&amp;gt;&amp;lt;/script&amp;gt;However: uBlock origin blocks GoatCounter which is fine for me. Also localhost serves of jekyll call at GoatCounter so test environment may mess up the count but since uBlock blocks it it should be fine.Took out license and sharing at post bottomBecause of unclarity around licensing, I decided to opt for a “some rights reserved” in the footer. Thus, I needed to take out the CC license at the bottom of each post. Also, I don’t like sharing buttons. So the whole piece had to go.In layouts/posts.html I deleted this whole section at the bottom:  &amp;lt;div class=&quot;post-tail-bottom    d-flex justify-content-between align-items-center mt-3 pt-5 pb-2&quot;&amp;gt;    &amp;lt;div class=&quot;license-wrapper&quot;&amp;gt;          &amp;lt;/div&amp;gt;    &amp;lt;!-- Post sharing snippet--&amp;gt;&amp;lt;div class=&quot;share-wrapper&quot;&amp;gt;  &amp;lt;span class=&quot;share-label text-muted mr-1&quot;&amp;gt;&amp;lt;/span&amp;gt;  &amp;lt;span class=&quot;share-icons&quot;&amp;gt;                          &amp;lt;a href=&quot;https://twitter.com/intent/tweet?text=Configuration this site - mathis&amp;amp;url=https://mathis.lol/posts/configuration-this-site/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot;          title=&quot;Twitter&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; aria-label=&quot;Twitter&quot;&amp;gt;          &amp;lt;i class=&quot;fa-fw fab fa-twitter&quot;&amp;gt;&amp;lt;/i&amp;gt;        &amp;lt;/a&amp;gt;                  &amp;lt;a href=&quot;https://www.facebook.com/sharer/sharer.php?title=Configuration this site - mathis&amp;amp;u=https://mathis.lol/posts/configuration-this-site/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot;          title=&quot;Facebook&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; aria-label=&quot;Facebook&quot;&amp;gt;          &amp;lt;i class=&quot;fa-fw fab fa-facebook-square&quot;&amp;gt;&amp;lt;/i&amp;gt;        &amp;lt;/a&amp;gt;                  &amp;lt;a href=&quot;https://telegram.me/share?text=Configuration this site - mathis&amp;amp;url=https://mathis.lol/posts/configuration-this-site/&quot; data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot;          title=&quot;Telegram&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot; aria-label=&quot;Telegram&quot;&amp;gt;          &amp;lt;i class=&quot;fa-fw fab fa-telegram&quot;&amp;gt;&amp;lt;/i&amp;gt;        &amp;lt;/a&amp;gt;        &amp;lt;i id=&quot;copy-link&quot; class=&quot;fa-fw fas fa-link small&quot;        data-toggle=&quot;tooltip&quot; data-placement=&quot;top&quot;        title=&quot;&quot;        title-succeed=&quot;&quot;&amp;gt;    &amp;lt;/i&amp;gt;  &amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;  &amp;lt;/div&amp;gt;&amp;lt;!-- .post-tail-bottom --&amp;gt;Setup  [x]installing ruby  [x]installing jekyll          continue at “Get your Ruby version:”        [ ]installing chirby on github pages  setup guide  setup at nullnein.onrender.com, run:          jekyll bundle exec jekyll build      push to github not automated yet      I think render will automatically redeploy        How github/jekyll workflow works, very basic tutorial  How to linkimage handling  Typora imputs into assets folder  assets has subfolders by category  attibute image path as /assets/image-path.extensionadd tag-archivehttps://brettterpstra.com/projects/jtag/  change nil to none in tags_json.html  change config.yml to point to https://raw.githubusercontent.com/nullnein/site-deploy/main/data/tags.jsonFigure out  how to host images  internal links  git: take care of branches, right now switched to main as default, don’t want to have pull-request hassle, no need  mathjax arrows"
   },
   
   {
