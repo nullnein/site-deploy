@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2022-09-04T12:40:43+02:00</updated>
+  <updated>2022-11-14T08:18:29+01:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -17,6 +17,82 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Doing TV</title>
+    <link href="https://mathis.lol/posts/doingtv/" rel="alternate" type="text/html" title="Doing TV" />
+    <published>2022-10-29T00:00:00+02:00</published>
+  
+    <updated>2022-10-29T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/doingtv/</id>
+    <content src="https://mathis.lol/posts/doingtv/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="learning" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      I don’t know TV. I have taken a sh%tload of fotos with an 1936 camera. And I always vibe to material - so watch out for music.
+
+I don’t know TV
+
+My media intake is largely text based. Linear TV, webvideo, social - I know them, I sometimes see them, but ever since I don’t own a TV anymore they’re not my go to media.
+
+I do enjoy watching the occasional TV series and films. I used to be a Tagessch...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Video - How Iranian exiles in Germany deal with the uprising at home</title>
+    <link href="https://mathis.lol/posts/iran-taekwondo-exile/" rel="alternate" type="text/html" title="Video - How Iranian exiles in Germany deal with the uprising at home" />
+    <published>2022-10-15T00:00:00+02:00</published>
+  
+    <updated>2022-10-15T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/iran-taekwondo-exile/</id>
+    <content src="https://mathis.lol/posts/iran-taekwondo-exile/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      People in Iran are taking to the streets, fighting back against religious clothing restrictions for women and challenging the country’s autocrat rulers. The protests cast a long shadow around the world, reaching people who have left Iran in the past and now live in exile. Two Iranian Taekwondo athletes living in Berlin are fully consumed by the demonstrations back home.
+
+» DW: Original Video (e...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -115,21 +191,21 @@ Hintergrund
 
   
   <entry>
-    <title>Germany - Stockpiling wood in fear of gas shortage</title>
-    <link href="https://mathis.lol/posts/Brennholz/" rel="alternate" type="text/html" title="Germany - Stockpiling wood in fear of gas shortage" />
-    <published>2022-07-23T00:00:00+02:00</published>
+    <title>Näher als ich dachte</title>
+    <link href="https://mathis.lol/posts/naeher-als-ich-dachte/" rel="alternate" type="text/html" title="Näher als ich dachte" />
+    <published>2022-08-01T00:00:00+02:00</published>
   
-    <updated>2022-07-23T00:00:00+02:00</updated>
+    <updated>2022-08-01T00:00:00+02:00</updated>
   
-    <id>https://mathis.lol/posts/Brennholz/</id>
-    <content src="https://mathis.lol/posts/Brennholz/" />
+    <id>https://mathis.lol/posts/naeher-als-ich-dachte/</id>
+    <content src="https://mathis.lol/posts/naeher-als-ich-dachte/" />
     <author>
       <name>mathis</name>
     </author>
 
   
     
-    <category term="arbeitsproben" />
+    <category term="prosa" />
     
   
 
@@ -141,107 +217,9 @@ Hintergrund
 
 
 
-      In search for alternatives to heating with gas, Germans are increasingly turning to wood. Wood-burning stoves are subsidized by the government, but experts warn of serious health repercussions.
+      Sieht man vom nördlichen Ende der fast rechteckigen Fläche von Auschwitz-Birkenau, dem Lager Auschwitz II, über die weitläufige Fläche, hinter den Horizont der gegenüberliegenden Zaunanlage, dann erkennt man dahinter, 80 Kilometer entfernt, Berge.
 
-» DW: Original Artikel
-
-Hintergrund
-
-
-  Auslieferung: Deutsch
-  Adaptionen: Englisch, Spanisch, Polnisch, Serbisch, Griechisch, Mazedonisch, Chinesisch, Kroatisch, Indonesisch, Hindi
-  Explainer with or...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Montratec - High-Tech aus dem Schwarzwald</title>
-    <link href="https://mathis.lol/posts/montratec/" rel="alternate" type="text/html" title="Montratec - High-Tech aus dem Schwarzwald" />
-    <published>2022-07-10T00:00:00+02:00</published>
-  
-    <updated>2022-07-10T00:00:00+02:00</updated>
-  
-    <id>https://mathis.lol/posts/montratec/</id>
-    <content src="https://mathis.lol/posts/montratec/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Corona hat Spuren in der deutschen Industrie hinterlassen. Anders beim  Unternehmen Montratec im Schwarzwald: Das kam gut durch die Krise - mit  Hilfe von Investoren und einem Produkt, das wirklich alle brauchen.
-
-» DW: Original Artikel
-
-» DW: Original Audio
-
-Hintergrund
-
-
-  Auslieferung: Deutsch
-  Reporting Text and Audio from Niedereschach
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Russia's default explained - Will investors take a hit?</title>
-    <link href="https://mathis.lol/posts/russia-default/" rel="alternate" type="text/html" title="Russia's default explained - Will investors take a hit?" />
-    <published>2022-06-29T00:00:00+02:00</published>
-  
-    <updated>2022-06-29T00:00:00+02:00</updated>
-  
-    <id>https://mathis.lol/posts/russia-default/</id>
-    <content src="https://mathis.lol/posts/russia-default/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      By most accounts, Russia has defaulted on its sovereign debt because it  was unable to make a payment to its creditors. But reality is trickier than that, and shows Moscow has been strategic in bracing for the fallout.
-
-» DW: Original Artikel
-
-Hintergrund
-
-
-  Auslieferung: Englisch
-  Adaptionen: Russisch, Spanisch, Brasilianisch
-  Explainer with original reporting
-  Infographic by DW Infographi...
+Die Stallanlagen, in die hunderte von Menschen zum nächtigen gepfercht wurden, stehen nicht mehr. Nur Kamingerippe ragen in Reih und Glied aus dem B...
     </summary>
   
 
