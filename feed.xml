@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2022-11-14T08:18:29+01:00</updated>
+  <updated>2022-12-27T21:55:35+01:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -17,6 +17,44 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Reporters diary</title>
+    <link href="https://mathis.lol/posts/Reporters-Diary/" rel="alternate" type="text/html" title="Reporters diary" />
+    <published>2022-12-08T00:00:00+01:00</published>
+  
+    <updated>2022-12-08T00:00:00+01:00</updated>
+  
+    <id>https://mathis.lol/posts/Reporters-Diary/</id>
+    <content src="https://mathis.lol/posts/Reporters-Diary/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Reporter’s Diary
+A weekly conversation on the worldwide stories behind the story.
+
+What is it?
+Reporter’s Diary is a podcast format produced weekly, where two hosts talk to another DW colleague about the story behind their recent story. These conversations connect news from around the world and allow for transparent journalist storytelling.
+
+Hosts and guest will share stories of how they found ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -176,6 +214,7 @@ Hintergrund
   Auslieferung: Deutsch
   Adaptionen: Englisch
   TV report, protagonist driven piece driving a coal vessle through the Rhine’s narrow straight at Kaub
+  Live reporting in English and German in news programs
 
 
 
@@ -184,42 +223,6 @@ Hintergrund
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Näher als ich dachte</title>
-    <link href="https://mathis.lol/posts/naeher-als-ich-dachte/" rel="alternate" type="text/html" title="Näher als ich dachte" />
-    <published>2022-08-01T00:00:00+02:00</published>
-  
-    <updated>2022-08-01T00:00:00+02:00</updated>
-  
-    <id>https://mathis.lol/posts/naeher-als-ich-dachte/</id>
-    <content src="https://mathis.lol/posts/naeher-als-ich-dachte/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="prosa" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Sieht man vom nördlichen Ende der fast rechteckigen Fläche von Auschwitz-Birkenau, dem Lager Auschwitz II, über die weitläufige Fläche, hinter den Horizont der gegenüberliegenden Zaunanlage, dann erkennt man dahinter, 80 Kilometer entfernt, Berge.
-
-Die Stallanlagen, in die hunderte von Menschen zum nächtigen gepfercht wurden, stehen nicht mehr. Nur Kamingerippe ragen in Reih und Glied aus dem B...
     </summary>
   
 
