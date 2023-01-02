@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2023-01-02T16:05:38+01:00</updated>
+  <updated>2023-01-02T16:59:34+01:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -17,6 +17,41 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>mathis?</title>
+    <link href="https://mathis.lol/posts/whoismathis/" rel="alternate" type="text/html" title="mathis?" />
+    <published>2023-01-02T00:00:00+01:00</published>
+  
+    <updated>2023-01-02T00:00:00+01:00</updated>
+  
+    <id>https://mathis.lol/posts/whoismathis/</id>
+    <content src="https://mathis.lol/posts/whoismathis/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="aboutmathis" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -46,13 +81,13 @@
 
 
 
-      I don’t know TV. I have taken a sh%tload of fotos with an 1936 camera. And I always vibe to material - so watch out for music.
+      I don’t know TV. I read, mostly and I listen to audio. In the past, I took fotos with an 1936 camera. This concludes 6 weeks of TV training: Camera, Cutting, Speaking - and watch out for music.
 
 I don’t know TV
 
 My media intake is largely text based. Linear TV, webvideo, social - I know them, I sometimes see them, but ever since I don’t own a TV anymore they’re not my go to media.
 
-I do enjoy watching the occasional TV series and films. I used to be a Tagessch...
+I do enjoy w...
     </summary>
   
 
@@ -185,42 +220,6 @@ Hintergrund
 
 
 
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Näher als ich dachte</title>
-    <link href="https://mathis.lol/posts/naeher-als-ich-dachte/" rel="alternate" type="text/html" title="Näher als ich dachte" />
-    <published>2022-08-01T00:00:00+02:00</published>
-  
-    <updated>2022-08-01T00:00:00+02:00</updated>
-  
-    <id>https://mathis.lol/posts/naeher-als-ich-dachte/</id>
-    <content src="https://mathis.lol/posts/naeher-als-ich-dachte/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="prosa" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Sieht man vom nördlichen Ende der fast rechteckigen Fläche von Auschwitz-Birkenau, dem Lager Auschwitz II, über die weitläufige Fläche, hinter den Horizont der gegenüberliegenden Zaunanlage, dann erkennt man dahinter, 80 Kilometer entfernt, Berge.
-
-Die Stallanlagen, in die hunderte von Menschen zum nächtigen gepfercht wurden, stehen nicht mehr. Nur Kamingerippe ragen in Reih und Glied aus dem B...
     </summary>
   
 
