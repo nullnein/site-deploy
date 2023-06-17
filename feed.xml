@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2023-02-10T16:32:15+01:00</updated>
+  <updated>2023-06-17T22:59:51+02:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -20,14 +20,14 @@
 
   
   <entry>
-    <title>DW - Instagram - Record profits for big oil</title>
-    <link href="https://mathis.lol/posts/Big-oil-profits/" rel="alternate" type="text/html" title="DW - Instagram - Record profits for big oil" />
-    <published>2023-02-09T00:00:00+01:00</published>
+    <title>DW - Video - Louisiana Insurance Crisis</title>
+    <link href="https://mathis.lol/posts/Louisiana-Insurance-Crisis/" rel="alternate" type="text/html" title="DW - Video - Louisiana Insurance Crisis" />
+    <published>2023-06-13T00:00:00+02:00</published>
   
-    <updated>2023-02-09T00:00:00+01:00</updated>
+    <updated>2023-06-13T00:00:00+02:00</updated>
   
-    <id>https://mathis.lol/posts/Big-oil-profits/</id>
-    <content src="https://mathis.lol/posts/Big-oil-profits/" />
+    <id>https://mathis.lol/posts/Louisiana-Insurance-Crisis/</id>
+    <content src="https://mathis.lol/posts/Louisiana-Insurance-Crisis/" />
     <author>
       <name>mathis</name>
     </author>
@@ -46,15 +46,8 @@
 
 
 
-      News-carousel (9 pictures) for dw-instagram: Pushes for big oil to invest in renewables. Original interview with Mark van Daal (Follow This) and data visualization of profits/oil price.
+      Natural disasters are sending insurance rates skyrocketing in many US coastal areas. Follow me to the south of Louisiana where the ongoing insurance crisis may force people to leave home.
 
-        Sieh dir diesen Beitrag auf Instagram an            Ein Beitrag geteilt von DW News (@dwnews)
-
-
-Hintergrund
-
-
-  Auslieferung: English (Social)
 
 
     </summary>
@@ -64,14 +57,14 @@ Hintergrund
 
   
   <entry>
-    <title>DW - Fighting for recognition of queer prosecution during National Socialism in Germany</title>
-    <link href="https://mathis.lol/posts/queer-recognition/" rel="alternate" type="text/html" title="DW - Fighting for recognition of queer prosecution during National Socialism in Germany" />
-    <published>2023-01-27T00:00:00+01:00</published>
+    <title>DW - US ammunition factories working overtime to supply Ukraine</title>
+    <link href="https://mathis.lol/posts/155mm-ammunitions/" rel="alternate" type="text/html" title="DW - US ammunition factories working overtime to supply Ukraine" />
+    <published>2023-05-29T00:00:00+02:00</published>
   
-    <updated>2023-01-27T00:00:00+01:00</updated>
+    <updated>2023-05-29T00:00:00+02:00</updated>
   
-    <id>https://mathis.lol/posts/queer-recognition/</id>
-    <content src="https://mathis.lol/posts/queer-recognition/" />
+    <id>https://mathis.lol/posts/155mm-ammunitions/</id>
+    <content src="https://mathis.lol/posts/155mm-ammunitions/" />
     <author>
       <name>mathis</name>
     </author>
@@ -90,13 +83,10 @@ Hintergrund
 
 
 
-      News-portrayal of Lutz van Dijk who fought for years that the German Bundestag recognize the prosecution of queer people during National Socialism. On January 27th 2023, the German parliament held it’s annual rememberance ceremony with a special focus on the prosecution of sexual minorities.
-
-TV News piece running throughout the day, here as a piece during lives
+      DW was granted rare access to one of just two US factories working overtime to keep up with soaring Ukrainian demand for weapons, the Ammunition Plant in Scranton, Pennsylvania. I went and saw shells stacked to the ceiling.
 
 
 
-Social piece delivered to pre...
     </summary>
   
 
@@ -104,14 +94,14 @@ Social piece delivered to pre...
 
   
   <entry>
-    <title>DW - This is Germany's largest humanitarian logistics operation in history</title>
-    <link href="https://mathis.lol/posts/Ukraine-THW/" rel="alternate" type="text/html" title="DW - This is Germany's largest humanitarian logistics operation in history" />
-    <published>2023-01-09T00:00:00+01:00</published>
+    <title>DW - How company profits are keeping prices high</title>
+    <link href="https://mathis.lol/posts/Inflation-and-profits/" rel="alternate" type="text/html" title="DW - How company profits are keeping prices high" />
+    <published>2023-05-04T00:00:00+02:00</published>
   
-    <updated>2023-01-09T00:00:00+01:00</updated>
+    <updated>2023-05-04T00:00:00+02:00</updated>
   
-    <id>https://mathis.lol/posts/Ukraine-THW/</id>
-    <content src="https://mathis.lol/posts/Ukraine-THW/" />
+    <id>https://mathis.lol/posts/Inflation-and-profits/</id>
+    <content src="https://mathis.lol/posts/Inflation-and-profits/" />
     <author>
       <name>mathis</name>
     </author>
@@ -130,94 +120,94 @@ Social piece delivered to pre...
 
 
 
-      Newspieces for TV and Social, covering Germany’s logistics operations supporting critical infrastructure in Ukraine. Filmed at an undisclosed THW logistical center in southern Germany. The operation is described as the largest humanitarian logistics operations in Germany’s post war history, where generators, machinery, and heavy vehicles are shipped to the Polish-Ukrainian border - by volunteer...
-    </summary>
-  
+      Supply chain bottlenecks and the war in Ukraine caused inflation to soar. Now, policymakers are pointing to high corporate profits as another driver of increased consumer prices. Will governments intervene?
 
-  </entry>
-
-  
-  <entry>
-    <title>lesen</title>
-    <link href="https://mathis.lol/posts/lesen/" rel="alternate" type="text/html" title="lesen" />
-    <published>2023-01-02T00:00:00+01:00</published>
-  
-    <updated>2023-01-02T00:00:00+01:00</updated>
-  
-    <id>https://mathis.lol/posts/lesen/</id>
-    <content src="https://mathis.lol/posts/lesen/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="mikrophaenomene" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-  Nicole Perlroth: This is How They Tell Me the World Ends: - The Cyber Weapons Arms Race
-  Unterwerfung - Houellebecq
-  Graeber: Toward an Anthropological Theory of Value
-  Preußler, Ottfried: Krabat
-  Astrid Lindgren: Ronja Räubertochter
-  Stuart Hall: Familiar Stranger
-  Lea Ypi: Free
-  Anuk Arudpragasam: A Passage North
-  Sol Stein: On Writing
-  Mithu M. Sayal: Identitti
-  Deji Bryce Oluko...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Reuters - Germans spending less as soaring power, food costs gnaw finances</title>
-    <link href="https://mathis.lol/posts/Germany-soaring-prices/" rel="alternate" type="text/html" title="Reuters - Germans spending less as soaring power, food costs gnaw finances" />
-    <published>2022-12-01T00:00:00+01:00</published>
-  
-    <updated>2022-12-01T00:00:00+01:00</updated>
-  
-    <id>https://mathis.lol/posts/Germany-soaring-prices/</id>
-    <content src="https://mathis.lol/posts/Germany-soaring-prices/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Feature story for Reuters International: As prices soar, will downward consumer sentiment strifle growth in Germany?
-
-» Reuters: Original Article (en)
+» DW: Original Artikel
 
 Hintergrund
 
 
   Auslieferung: English
-  This December 2022 seems to play out quite clearly in January 2023 numbers.
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW - Studio talks SVB and ECB rate hikes</title>
+    <link href="https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/" rel="alternate" type="text/html" title="DW - Studio talks SVB and ECB rate hikes" />
+    <published>2023-03-14T00:00:00+01:00</published>
+  
+    <updated>2023-03-14T00:00:00+01:00</updated>
+  
+    <id>https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/</id>
+    <content src="https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      May gave me some studio time as the US regional bank SVB collapsed amongst rate increases of central banks globally. For me, studio time is explanation time: Most people don’t deal with finance stuff on a regular basis. But what finance and central banks do may be abstract but it is at the core of our society - they tender money. And I love telling stories around how that works.
+
+Problem with b...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>DW - What Silicon Valley Bank's collapse means for Europeans</title>
+    <link href="https://mathis.lol/posts/SVB-Europeans/" rel="alternate" type="text/html" title="DW - What Silicon Valley Bank's collapse means for Europeans" />
+    <published>2023-03-14T00:00:00+01:00</published>
+  
+    <updated>2023-03-14T00:00:00+01:00</updated>
+  
+    <id>https://mathis.lol/posts/SVB-Europeans/</id>
+    <content src="https://mathis.lol/posts/SVB-Europeans/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="arbeitsproben" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      After the fall of SVB and New York-based Signature Bank, US authorities took decisive measures to prevent any possible contagion. But the factors that fueled their downfall are keeping Europeans on their toes.
+
+» DW: Original Artikel
+
+Hintergrund
+
+
+  Auslieferung: English
 
 
 
