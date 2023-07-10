@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2023-07-10T05:50:47+02:00</updated>
+  <updated>2023-07-10T17:17:54+02:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -53,6 +53,42 @@ Full paper
 From the abstract:
 
 The permanent international lender of last resort consists of a swap line network between six major central banks (C6), centring around...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Young journalists should be reporters, else AI will kill their jobs</title>
+    <link href="https://mathis.lol/posts/ai-journalism/" rel="alternate" type="text/html" title="Young journalists should be reporters, else AI will kill their jobs" />
+    <published>2023-07-03T00:00:00+02:00</published>
+  
+    <updated>2023-07-03T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/ai-journalism/</id>
+    <content src="https://mathis.lol/posts/ai-journalism/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="mikrophaenomene" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      It is a strange time to begin a career in journalism: Vice - the media company I grew up with - just went out of business, layoffs have been gripping the industry for years and now AI is further set to decimate my career.
+
+I have trained as a journalist with German broadcaster Deutsche Welle for the past 17 months, switching over from a career as an economist. Will AI kill my career before I ev...
     </summary>
   
 
@@ -160,50 +196,6 @@ Wochenende, 30 Grad, Sonne in Washington DC und am Montag ist Feiertag: Juneteen
 
 
       DW was granted rare access to one of just two US factories working overtime to keep up with soaring Ukrainian demand for weapons, the Ammunition Plant in Scranton, Pennsylvania. I went and saw shells stacked to the ceiling.
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW - How company profits are keeping prices high</title>
-    <link href="https://mathis.lol/posts/Inflation-and-profits/" rel="alternate" type="text/html" title="DW - How company profits are keeping prices high" />
-    <published>2023-05-04T00:00:00+02:00</published>
-  
-    <updated>2023-05-04T00:00:00+02:00</updated>
-  
-    <id>https://mathis.lol/posts/Inflation-and-profits/</id>
-    <content src="https://mathis.lol/posts/Inflation-and-profits/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Supply chain bottlenecks and the war in Ukraine caused inflation to soar. Now, policymakers are pointing to high corporate profits as another driver of increased consumer prices. Will governments intervene?
-
-» DW: Original Artikel
-
-Hintergrund
-
-
-  Auslieferung: English
 
 
 
