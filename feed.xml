@@ -4,7 +4,7 @@
   <id>https://mathis.lol/</id>
   <title>mathis</title>
   <subtitle>Mathis Richtmann is a journalist at Deutsche Welle. This website collects his previous and current work.</subtitle>
-  <updated>2023-06-17T22:59:51+02:00</updated>
+  <updated>2023-07-10T05:50:47+02:00</updated>
   <author>
     <name>mathis</name>
     <uri>https://mathis.lol/</uri>
@@ -17,6 +17,82 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>From bazooka to backstop - the political economy of standing swap facilities</title>
+    <link href="https://mathis.lol/posts/from-bazooka-to-backstop/" rel="alternate" type="text/html" title="From bazooka to backstop - the political economy of standing swap facilities" />
+    <published>2023-07-09T00:00:00+02:00</published>
+  
+    <updated>2023-07-09T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/from-bazooka-to-backstop/</id>
+    <content src="https://mathis.lol/posts/from-bazooka-to-backstop/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="academia" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Together with Lea Steininger, I published this paper in Cambridge Journal of Economics. The paper explores decision making by central bankers as they grapple with limited agency in supporting the structures of financial markets.
+
+Full paper
+
+From the abstract:
+
+The permanent international lender of last resort consists of a swap line network between six major central banks (C6), centring around...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Peach Cobbler Stake Taco</title>
+    <link href="https://mathis.lol/posts/peach-cobbler-steak-taco/" rel="alternate" type="text/html" title="Peach Cobbler Stake Taco" />
+    <published>2023-06-18T00:00:00+02:00</published>
+  
+    <updated>2023-06-18T00:00:00+02:00</updated>
+  
+    <id>https://mathis.lol/posts/peach-cobbler-steak-taco/</id>
+    <content src="https://mathis.lol/posts/peach-cobbler-steak-taco/" />
+    <author>
+      <name>mathis</name>
+    </author>
+
+  
+    
+    <category term="mikrophaenomene" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Die Feinheiten einer Gesellschaft verbergen sich ja meist in dem Unausgesprochenen, in den Zwischenräumen, die für die Gesellschaft so allgegenwärtig sind, dass sie für Mitglieder dieser Gesellschaft kaum artikulierbar sind.
+
+Wochenende, 30 Grad, Sonne in Washington DC und am Montag ist Feiertag: Juneteenth National Independence Day, seit zwei Jahren bundesweit durch Präsident Biden festgelegt ...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -121,86 +197,6 @@
 
 
       Supply chain bottlenecks and the war in Ukraine caused inflation to soar. Now, policymakers are pointing to high corporate profits as another driver of increased consumer prices. Will governments intervene?
-
-» DW: Original Artikel
-
-Hintergrund
-
-
-  Auslieferung: English
-
-
-
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW - Studio talks SVB and ECB rate hikes</title>
-    <link href="https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/" rel="alternate" type="text/html" title="DW - Studio talks SVB and ECB rate hikes" />
-    <published>2023-03-14T00:00:00+01:00</published>
-  
-    <updated>2023-03-14T00:00:00+01:00</updated>
-  
-    <id>https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/</id>
-    <content src="https://mathis.lol/posts/Studio-Talks-on-SVB-and-ECB/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      May gave me some studio time as the US regional bank SVB collapsed amongst rate increases of central banks globally. For me, studio time is explanation time: Most people don’t deal with finance stuff on a regular basis. But what finance and central banks do may be abstract but it is at the core of our society - they tender money. And I love telling stories around how that works.
-
-Problem with b...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>DW - What Silicon Valley Bank's collapse means for Europeans</title>
-    <link href="https://mathis.lol/posts/SVB-Europeans/" rel="alternate" type="text/html" title="DW - What Silicon Valley Bank's collapse means for Europeans" />
-    <published>2023-03-14T00:00:00+01:00</published>
-  
-    <updated>2023-03-14T00:00:00+01:00</updated>
-  
-    <id>https://mathis.lol/posts/SVB-Europeans/</id>
-    <content src="https://mathis.lol/posts/SVB-Europeans/" />
-    <author>
-      <name>mathis</name>
-    </author>
-
-  
-    
-    <category term="arbeitsproben" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      After the fall of SVB and New York-based Signature Bank, US authorities took decisive measures to prevent any possible contagion. But the factors that fueled their downfall are keeping Europeans on their toes.
 
 » DW: Original Artikel
 
